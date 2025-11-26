@@ -1,0 +1,2001 @@
+patient_id,age,gender,specialty,urgency,preferred_day,preferred_slot,duration_min,previous_no_shows,distance_km,no_show_prob
+P30000,33,M,Psicología,normal,Jueves,mañana,15,1,5.559,0.058374
+P30001,85,M,Pediatría,normal,Sábado,mañana,15,0,9.448,0.059662
+P30002,9,M,Medicina General,normal,Sábado,tarde,30,0,0.213,0.07008
+P30003,61,O,Medicina General,normal,Viernes,tarde,30,0,4.891,0.052874
+P30004,62,M,Medicina General,normal,Viernes,tarde,15,0,4.009,0.054806
+P30005,53,F,Ginecología,normal,Martes,mañana,15,0,2.648,0.05365
+P30006,82,F,Medicina General,normal,Martes,mañana,30,0,6.39,0.055336
+P30007,24,M,Medicina General,urgente,Lunes,tarde,30,0,4.932,0.036376
+P30008,14,M,Medicina General,normal,Lunes,mañana,30,0,4.543,0.078592
+P30009,49,M,Ginecología,normal,Viernes,noche,15,0,4.757,0.057909
+P30010,39,F,Medicina General,normal,Lunes,mañana,15,0,6.335,0.056249
+P30011,30,M,Odontología,urgente,Martes,mañana,15,0,1.395,0.031556
+P30012,9,M,Medicina General,normal,Miércoles,mañana,15,0,1.021,0.051371
+P30013,55,M,Medicina General,normal,Jueves,mañana,15,0,6.552,0.057993
+P30014,30,M,Medicina General,normal,Jueves,mañana,15,0,7.258,0.058485
+P30015,35,M,Psicología,normal,Jueves,mañana,15,1,9.661,0.060553
+P30016,57,M,Odontología,normal,Martes,mañana,30,1,4.265,0.03508
+P30017,81,M,Psicología,normal,Jueves,mañana,15,0,2.213,0.052365
+P30018,19,F,Psicología,normal,Lunes,mañana,30,0,2.632,0.07234
+P30019,15,F,Medicina General,normal,Lunes,tarde,30,0,0.372,0.065373
+P30020,64,F,Odontología,urgente,Lunes,mañana,30,0,1.537,0.033255
+P30021,40,M,Medicina General,normal,Jueves,mañana,15,0,10.933,0.063881
+P30022,63,M,Odontología,normal,Lunes,mañana,30,0,6.826,0.056715
+P30023,27,M,Medicina General,normal,Jueves,mañana,15,0,9.931,0.061402
+P30024,49,F,Medicina General,urgente,Miércoles,tarde,15,0,14.187,0.04163
+P30025,81,F,Medicina General,normal,Miércoles,mañana,15,0,4.6,0.054781
+P30026,65,F,Psicología,normal,Miércoles,mañana,30,0,11.739,0.062197
+P30027,70,M,Medicina General,normal,Viernes,tarde,30,0,4.317,0.05182
+P30028,64,F,Medicina General,normal,Miércoles,tarde,15,0,2.84,0.052687
+P30029,30,F,Psicología,normal,Lunes,mañana,30,0,3.347,0.057043
+P30030,57,M,Medicina General,normal,Viernes,tarde,15,1,0.29,0.055868
+P30031,6,M,Psicología,normal,Viernes,tarde,30,0,2.789,0.07453
+P30032,21,M,Ginecología,normal,Viernes,tarde,15,0,5.069,0.056029
+P30033,14,M,Psicología,normal,Jueves,mañana,15,0,7.644,0.061316
+P30034,14,M,Medicina General,urgente,Martes,tarde,30,0,3.559,0.072241
+P30035,7,M,Medicina General,normal,Viernes,tarde,15,0,4.078,0.072992
+P30036,73,F,Medicina General,normal,Martes,mañana,30,1,13.577,0.073167
+P30037,69,F,Medicina General,normal,Miércoles,tarde,15,0,1.739,0.051668
+P30038,19,F,Medicina General,normal,Martes,mañana,30,0,1.127,0.055283
+P30039,64,F,Psicología,normal,Miércoles,tarde,15,0,9.73,0.059783
+P30040,48,F,Psicología,normal,Miércoles,mañana,15,0,19.729,0.068364
+P30041,34,M,Psicología,urgente,Viernes,mañana,15,0,4.69,0.035962
+P30042,45,F,Pediatría,normal,Miércoles,tarde,15,0,2.853,0.054058
+P30043,34,F,Medicina General,normal,Martes,mañana,30,0,1.52,0.056334
+P30044,2,F,Medicina General,normal,Jueves,mañana,30,1,10.302,0.077149
+P30045,58,F,Medicina General,normal,Lunes,tarde,15,0,4.802,0.052336
+P30046,51,F,Psicología,urgente,Martes,mañana,15,0,4.469,0.034411
+P30047,44,M,Medicina General,urgente,Sábado,tarde,15,0,1.67,0.030999
+P30048,64,M,Ginecología,urgente,Jueves,mañana,30,0,12.404,0.045938
+P30049,79,F,Medicina General,normal,Miércoles,mañana,15,0,7.454,0.058379
+P30050,24,F,Medicina General,normal,Jueves,mañana,30,0,10.975,0.05924
+P30051,83,M,Odontología,normal,Jueves,mañana,30,0,1.199,0.051887
+P30052,50,M,Medicina General,normal,Sábado,tarde,15,0,3.413,0.053922
+P30053,65,F,Psicología,normal,Lunes,tarde,15,0,0.127,0.050499
+P30054,62,F,Medicina General,normal,Lunes,mañana,15,0,11.025,0.064166
+P30055,60,F,Psicología,urgente,Lunes,mañana,15,0,5.022,0.031556
+P30056,44,M,Odontología,normal,Lunes,mañana,30,0,3.364,0.053141
+P30057,36,F,Odontología,normal,Lunes,tarde,30,0,0.462,0.051897
+P30058,51,M,Cardiología,normal,Lunes,tarde,15,0,10.623,0.060616
+P30059,42,F,Medicina General,normal,Miércoles,tarde,15,0,1.768,0.051854
+P30060,46,M,Psicología,normal,Lunes,tarde,15,0,2.249,0.051613
+P30061,13,F,Pediatría,normal,Viernes,mañana,15,0,3.078,0.07409
+P30062,59,M,Medicina General,normal,Martes,mañana,15,0,3.469,0.054001
+P30063,2,M,Psicología,normal,Lunes,mañana,15,0,4.302,0.074866
+P30064,14,F,Psicología,normal,Lunes,tarde,15,0,8.667,0.057938
+P30065,4,M,Medicina General,normal,Miércoles,tarde,30,0,6.908,0.079826
+P30066,18,F,Medicina General,normal,Martes,mañana,15,0,7.002,0.057458
+P30067,78,F,Psicología,normal,Martes,mañana,15,0,3.263,0.054897
+P30068,68,M,Medicina General,normal,Miércoles,mañana,15,0,0.835,0.050453
+P30069,4,F,Medicina General,normal,Jueves,mañana,30,0,1.492,0.070856
+P30070,11,M,Medicina General,normal,Martes,tarde,15,0,3.726,0.074133
+P30071,55,F,Cardiología,normal,Jueves,mañana,15,0,6.514,0.060271
+P30072,42,M,Medicina General,normal,Martes,mañana,15,0,3.52,0.05324
+P30073,20,M,Psicología,normal,Martes,mañana,15,0,1.351,0.056307
+P30074,54,M,Pediatría,normal,Miércoles,mañana,15,0,1.416,0.047528
+P30075,64,F,Medicina General,normal,Miércoles,mañana,30,0,1.0,0.050207
+P30076,65,M,Odontología,normal,Lunes,mañana,30,0,5.162,0.05314
+P30077,40,M,Pediatría,normal,Viernes,tarde,15,0,0.0,0.050092
+P30078,60,F,Ginecología,normal,Lunes,mañana,30,1,3.754,0.058583
+P30079,55,F,Medicina General,normal,Viernes,tarde,15,0,3.749,0.054266
+P30080,16,M,Medicina General,urgente,Lunes,tarde,30,0,3.002,0.052349
+P30081,12,M,Medicina General,normal,Martes,mañana,30,0,2.248,0.073317
+P30082,16,M,Medicina General,normal,Viernes,mañana,15,0,8.16,0.075775
+P30083,23,F,Odontología,normal,Miércoles,mañana,30,0,0.689,0.050462
+P30084,17,F,Cardiología,normal,Jueves,mañana,30,0,0.158,0.050246
+P30085,11,F,Medicina General,normal,Lunes,tarde,15,0,21.746,0.087422
+P30086,80,M,Psicología,normal,Lunes,mañana,15,1,6.48,0.036936
+P30087,39,F,Medicina General,normal,Miércoles,mañana,15,0,4.367,0.054607
+P30088,62,M,Medicina General,normal,Sábado,tarde,15,0,5.665,0.056442
+P30089,39,M,Odontología,normal,Martes,tarde,15,0,4.868,0.055411
+P30090,21,M,Medicina General,urgente,Lunes,tarde,15,1,4.69,0.057186
+P30091,22,M,Odontología,normal,Lunes,mañana,15,0,6.687,0.074141
+P30092,83,M,Psicología,normal,Martes,mañana,15,0,6.305,0.057422
+P30093,81,F,Psicología,normal,Miércoles,mañana,15,0,3.66,0.052952
+P30094,4,F,Pediatría,normal,Viernes,tarde,30,0,4.826,0.078484
+P30095,58,M,Psicología,normal,Martes,mañana,15,0,0.0,0.050077
+P30096,53,M,Psicología,normal,Miércoles,mañana,15,0,0.15,0.049361
+P30097,33,F,Medicina General,normal,Lunes,tarde,30,0,3.59,0.053106
+P30098,64,F,Medicina General,normal,Miércoles,mañana,15,0,3.225,0.054123
+P30099,7,F,Pediatría,normal,Jueves,mañana,15,0,6.096,0.076718
+P30100,29,F,Medicina General,normal,Viernes,tarde,15,0,2.666,0.052914
+P30101,60,M,Medicina General,normal,Miércoles,tarde,15,0,1.663,0.048629
+P30102,11,F,Medicina General,normal,Martes,mañana,15,1,5.982,0.080486
+P30103,57,M,Medicina General,normal,Viernes,tarde,15,0,2.413,0.052661
+P30104,15,M,Psicología,normal,Martes,mañana,15,0,1.994,0.072985
+P30105,76,M,Medicina General,urgente,Sábado,tarde,15,0,1.153,0.03174
+P30106,11,F,Cardiología,normal,Jueves,mañana,30,0,13.39,0.082901
+P30107,19,M,Psicología,normal,Lunes,tarde,30,0,0.33,0.050195
+P30108,17,M,Psicología,urgente,Lunes,mañana,15,0,0.475,0.030776
+P30109,77,F,Medicina General,normal,Martes,mañana,15,0,3.192,0.05291
+P30110,18,F,Ginecología,normal,Sábado,tarde,15,0,7.851,0.076274
+P30111,2,F,Pediatría,normal,Sábado,mañana,15,0,1.263,0.069778
+P30112,14,M,Pediatría,urgente,Viernes,tarde,30,0,2.061,0.05189
+P30113,36,M,Cardiología,normal,Lunes,tarde,15,0,6.45,0.056473
+P30114,84,M,Medicina General,urgente,Jueves,tarde,15,0,1.266,0.031412
+P30115,31,O,Cardiología,normal,Jueves,mañana,30,0,12.443,0.065821
+P30116,37,M,Psicología,normal,Jueves,mañana,15,0,10.288,0.060391
+P30117,21,F,Psicología,normal,Jueves,tarde,15,0,0.0,0.049827
+P30118,52,M,Odontología,normal,Martes,mañana,15,0,6.838,0.053075
+P30119,82,F,Medicina General,normal,Miércoles,mañana,30,0,2.967,0.053314
+P30120,60,M,Odontología,normal,Lunes,mañana,30,0,3.349,0.051684
+P30121,35,F,Ginecología,normal,Lunes,mañana,30,1,8.124,0.057073
+P30122,12,M,Medicina General,normal,Jueves,mañana,30,0,1.442,0.068986
+P30123,45,F,Psicología,normal,Miércoles,tarde,30,0,13.71,0.06258
+P30124,68,F,Medicina General,normal,Miércoles,mañana,30,0,3.711,0.052377
+P30125,25,F,Medicina General,normal,Jueves,mañana,15,0,3.697,0.053745
+P30126,84,M,Medicina General,normal,Martes,mañana,15,0,5.097,0.053039
+P30127,69,M,Medicina General,normal,Martes,mañana,15,0,2.059,0.052247
+P30128,61,M,Psicología,normal,Jueves,mañana,30,0,3.674,0.05427
+P30129,12,M,Ginecología,normal,Lunes,mañana,15,0,0.752,0.070238
+P30130,83,M,Psicología,normal,Miércoles,mañana,15,0,9.169,0.055058
+P30131,58,M,Pediatría,normal,Lunes,tarde,30,0,0.657,0.049947
+P30132,6,F,Medicina General,normal,Jueves,tarde,30,1,3.831,0.075305
+P30133,62,F,Medicina General,normal,Sábado,tarde,15,0,0.197,0.055039
+P30134,8,F,Medicina General,normal,Viernes,tarde,15,1,20.192,0.083619
+P30135,38,M,Medicina General,normal,Martes,mañana,15,0,3.244,0.058119
+P30136,50,M,Odontología,normal,Miércoles,mañana,30,0,9.882,0.056671
+P30137,28,M,Psicología,normal,Lunes,tarde,15,1,11.515,0.060389
+P30138,8,M,Medicina General,normal,Sábado,tarde,30,0,0.281,0.070946
+P30139,79,F,Medicina General,normal,Sábado,mañana,15,0,4.663,0.055277
+P30140,65,M,Psicología,normal,Lunes,mañana,15,0,3.604,0.053524
+P30141,14,F,Medicina General,normal,Viernes,mañana,30,0,1.137,0.071017
+P30142,12,F,Medicina General,normal,Sábado,mañana,30,0,16.131,0.072447
+P30143,0,F,Medicina General,normal,Viernes,tarde,15,0,3.907,0.075909
+P30144,68,F,Medicina General,normal,Miércoles,mañana,15,0,5.23,0.055981
+P30145,80,M,Medicina General,normal,Jueves,tarde,30,0,1.259,0.051862
+P30146,89,F,Medicina General,normal,Martes,mañana,30,1,2.359,0.057254
+P30147,70,F,Medicina General,normal,Miércoles,mañana,15,0,5.319,0.056566
+P30148,0,M,Medicina General,normal,Lunes,tarde,30,0,5.092,0.077202
+P30149,37,F,Psicología,normal,Lunes,mañana,15,0,6.601,0.054026
+P30150,31,F,Ginecología,normal,Miércoles,mañana,30,0,7.102,0.05676
+P30151,32,F,Odontología,normal,Miércoles,mañana,15,0,6.044,0.055099
+P30152,19,F,Medicina General,normal,Jueves,mañana,30,0,14.828,0.063156
+P30153,35,F,Odontología,normal,Lunes,mañana,30,0,3.333,0.054968
+P30154,22,F,Ginecología,urgente,Lunes,mañana,45,0,5.603,0.054349
+P30155,76,M,Ginecología,urgente,Jueves,mañana,30,0,1.815,0.033267
+P30156,54,M,Psicología,urgente,Lunes,mañana,15,1,3.551,0.037137
+P30157,49,F,Medicina General,normal,Sábado,mañana,30,0,5.699,0.055723
+P30158,5,M,Medicina General,normal,Miércoles,mañana,15,0,0.799,0.070928
+P30159,28,F,Cardiología,normal,Martes,mañana,30,0,4.492,0.059876
+P30160,81,F,Medicina General,normal,Sábado,mañana,15,0,2.922,0.052839
+P30161,53,F,Cardiología,normal,Lunes,mañana,30,0,4.521,0.054244
+P30162,68,M,Pediatría,normal,Lunes,tarde,15,0,0.862,0.050947
+P30163,38,M,Odontología,normal,Jueves,mañana,15,0,12.979,0.067394
+P30164,49,M,Cardiología,normal,Martes,mañana,30,0,2.453,0.053068
+P30165,23,F,Medicina General,normal,Jueves,mañana,15,0,9.66,0.059578
+P30166,77,M,Odontología,urgente,Jueves,mañana,30,0,14.905,0.043457
+P30167,55,F,Pediatría,normal,Lunes,mañana,30,0,17.164,0.06782
+P30168,34,F,Pediatría,normal,Viernes,tarde,15,0,6.346,0.057692
+P30169,44,M,Ginecología,normal,Sábado,tarde,15,0,15.975,0.055339
+P30170,45,F,Odontología,normal,Lunes,mañana,30,0,4.251,0.059049
+P30171,27,M,Psicología,normal,Lunes,tarde,15,0,3.201,0.053454
+P30172,6,F,Odontología,normal,Jueves,mañana,30,0,1.06,0.068219
+P30173,64,F,Ginecología,normal,Miércoles,mañana,30,0,5.357,0.054178
+P30174,56,F,Medicina General,normal,Viernes,tarde,15,0,1.998,0.051857
+P30175,45,F,Medicina General,normal,Viernes,mañana,30,0,10.261,0.059806
+P30176,60,F,Medicina General,normal,Lunes,mañana,15,0,6.583,0.056673
+P30177,30,M,Odontología,normal,Lunes,tarde,30,0,3.884,0.053207
+P30178,20,F,Medicina General,normal,Viernes,tarde,30,0,3.303,0.053182
+P30179,48,F,Psicología,normal,Viernes,tarde,15,1,17.856,0.065184
+P30180,29,F,Cardiología,normal,Miércoles,tarde,15,0,16.626,0.063994
+P30181,52,M,Medicina General,normal,Jueves,mañana,15,0,3.257,0.053492
+P30182,32,M,Psicología,normal,Jueves,mañana,15,0,0.761,0.05041
+P30183,11,F,Psicología,normal,Viernes,mañana,15,0,3.766,0.073192
+P30184,25,F,Medicina General,normal,Miércoles,tarde,30,0,3.58,0.052848
+P30185,47,F,Medicina General,normal,Viernes,tarde,30,0,5.17,0.053262
+P30186,28,F,Medicina General,normal,Martes,mañana,30,0,4.037,0.053654
+P30187,21,M,Odontología,normal,Viernes,tarde,15,0,3.582,0.053085
+P30188,57,F,Medicina General,normal,Martes,mañana,30,0,4.191,0.053288
+P30189,74,F,Medicina General,normal,Lunes,mañana,15,0,14.627,0.063652
+P30190,16,M,Psicología,normal,Jueves,tarde,15,0,11.519,0.077348
+P30191,11,M,Odontología,normal,Sábado,tarde,15,0,6.081,0.075663
+P30192,71,F,Medicina General,normal,Martes,mañana,15,0,0.914,0.051512
+P30193,57,F,Ginecología,normal,Sábado,tarde,30,0,11.229,0.060266
+P30194,68,M,Pediatría,normal,Lunes,tarde,15,0,0.94,0.05102
+P30195,37,M,Ginecología,normal,Martes,mañana,45,0,6.713,0.058251
+P30196,4,F,Medicina General,normal,Jueves,tarde,30,0,1.005,0.071266
+P30197,14,O,Medicina General,normal,Miércoles,mañana,30,0,0.32,0.070536
+P30198,27,F,Cardiología,normal,Lunes,tarde,30,0,1.056,0.054131
+P30199,11,F,Medicina General,normal,Miércoles,tarde,15,0,2.639,0.07482
+P30200,42,F,Medicina General,normal,Lunes,mañana,45,1,9.846,0.062967
+P30201,10,M,Medicina General,normal,Jueves,mañana,30,0,1.322,0.067187
+P30202,19,M,Odontología,normal,Sábado,tarde,30,0,27.128,0.07591
+P30203,33,M,Odontología,normal,Miércoles,mañana,15,0,7.005,0.056213
+P30204,91,F,Medicina General,normal,Lunes,tarde,15,0,1.308,0.050297
+P30205,90,F,Psicología,normal,Lunes,mañana,30,0,1.385,0.051202
+P30206,0,M,Medicina General,normal,Lunes,mañana,30,0,1.302,0.074772
+P30207,34,F,Medicina General,normal,Jueves,mañana,30,0,5.238,0.056935
+P30208,30,M,Medicina General,normal,Viernes,tarde,30,0,3.373,0.054026
+P30209,22,M,Medicina General,normal,Miércoles,tarde,30,0,5.087,0.052292
+P30210,60,F,Psicología,normal,Viernes,tarde,30,1,5.515,0.058391
+P30211,46,M,Odontología,urgente,Miércoles,mañana,15,0,12.452,0.041692
+P30212,57,M,Pediatría,normal,Viernes,tarde,15,0,1.469,0.04997
+P30213,66,M,Pediatría,normal,Viernes,mañana,15,0,5.212,0.054951
+P30214,22,M,Cardiología,normal,Viernes,mañana,15,0,5.096,0.054167
+P30215,36,M,Medicina General,normal,Viernes,mañana,15,0,3.929,0.053674
+P30216,13,F,Ginecología,normal,Jueves,mañana,15,0,4.005,0.074615
+P30217,27,M,Cardiología,normal,Lunes,mañana,30,0,2.169,0.057944
+P30218,28,F,Ginecología,urgente,Lunes,tarde,30,0,1.204,0.031954
+P30219,82,M,Odontología,normal,Lunes,mañana,30,1,5.291,0.053801
+P30220,59,M,Psicología,normal,Lunes,mañana,15,1,4.75,0.054622
+P30221,38,F,Odontología,normal,Martes,mañana,15,0,7.906,0.054036
+P30222,9,F,Medicina General,normal,Sábado,tarde,30,0,12.785,0.085367
+P30223,64,F,Psicología,normal,Martes,mañana,15,0,4.033,0.0536
+P30224,61,M,Psicología,normal,Miércoles,tarde,30,0,12.505,0.040904
+P30225,41,F,Medicina General,normal,Miércoles,tarde,30,0,3.882,0.052836
+P30226,20,F,Ginecología,normal,Lunes,mañana,15,0,6.698,0.056004
+P30227,86,M,Psicología,normal,Lunes,mañana,15,0,2.313,0.055879
+P30228,49,F,Odontología,normal,Lunes,mañana,30,0,11.411,0.063653
+P30229,24,M,Odontología,normal,Jueves,mañana,30,0,4.485,0.05402
+P30230,33,F,Psicología,normal,Lunes,mañana,15,1,10.761,0.061611
+P30231,7,F,Medicina General,normal,Viernes,mañana,15,0,5.062,0.07467
+P30232,84,F,Psicología,normal,Miércoles,mañana,30,0,10.856,0.063089
+P30233,15,M,Ginecología,normal,Martes,tarde,30,0,4.522,0.053749
+P30234,20,F,Odontología,normal,Miércoles,mañana,15,1,9.392,0.057146
+P30235,25,M,Psicología,normal,Miércoles,mañana,15,0,1.465,0.050617
+P30236,11,F,Cardiología,normal,Lunes,mañana,30,0,1.527,0.07233
+P30237,24,F,Odontología,normal,Miércoles,tarde,15,0,6.495,0.055331
+P30238,52,M,Odontología,normal,Jueves,tarde,15,0,12.206,0.063095
+P30239,22,M,Medicina General,normal,Lunes,tarde,30,0,6.946,0.076394
+P30240,67,F,Psicología,normal,Miércoles,mañana,30,1,14.521,0.064948
+P30241,49,M,Ginecología,urgente,Martes,tarde,30,0,0.262,0.028977
+P30242,58,F,Psicología,normal,Lunes,mañana,30,0,0.343,0.05073
+P30243,43,M,Medicina General,normal,Viernes,mañana,30,0,3.02,0.052894
+P30244,34,F,Medicina General,normal,Jueves,mañana,30,0,3.576,0.073179
+P30245,65,F,Medicina General,normal,Viernes,tarde,30,0,3.347,0.053738
+P30246,40,F,Medicina General,normal,Viernes,tarde,30,0,0.871,0.054967
+P30247,49,M,Pediatría,normal,Sábado,tarde,30,0,2.079,0.050743
+P30248,17,F,Medicina General,normal,Viernes,tarde,30,0,4.358,0.053167
+P30249,32,F,Medicina General,normal,Jueves,mañana,30,0,8.4,0.060438
+P30250,32,M,Pediatría,normal,Jueves,tarde,15,0,3.688,0.054709
+P30251,50,F,Medicina General,normal,Jueves,mañana,30,0,2.722,0.053004
+P30252,66,F,Psicología,normal,Miércoles,mañana,15,0,0.33,0.049417
+P30253,43,M,Pediatría,normal,Lunes,tarde,30,0,0.589,0.049642
+P30254,50,F,Odontología,normal,Lunes,mañana,15,1,10.644,0.062492
+P30255,12,F,Medicina General,normal,Viernes,tarde,30,0,3.053,0.052768
+P30256,14,F,Medicina General,urgente,Lunes,tarde,30,0,2.133,0.052338
+P30257,32,M,Cardiología,normal,Lunes,mañana,30,0,1.169,0.053332
+P30258,22,M,Medicina General,normal,Jueves,mañana,30,0,2.792,0.072621
+P30259,9,M,Medicina General,normal,Miércoles,tarde,30,0,6.369,0.079092
+P30260,89,F,Medicina General,normal,Sábado,mañana,15,0,10.787,0.071202
+P30261,32,M,Medicina General,normal,Sábado,tarde,15,0,21.61,0.073013
+P30262,9,M,Medicina General,normal,Martes,tarde,15,0,8.329,0.079689
+P30263,79,F,Medicina General,normal,Sábado,mañana,30,1,4.799,0.055576
+P30264,61,F,Medicina General,normal,Miércoles,tarde,30,0,3.235,0.053436
+P30265,27,F,Odontología,normal,Jueves,mañana,15,0,2.613,0.072421
+P30266,10,M,Medicina General,normal,Jueves,mañana,15,0,10.246,0.059892
+P30267,48,F,Medicina General,normal,Miércoles,mañana,15,0,4.79,0.054688
+P30268,81,F,Psicología,normal,Miércoles,mañana,30,1,1.072,0.055539
+P30269,68,F,Medicina General,normal,Lunes,mañana,30,1,2.361,0.058226
+P30270,30,F,Medicina General,normal,Jueves,mañana,15,0,4.475,0.054284
+P30271,8,M,Medicina General,normal,Viernes,tarde,30,0,2.675,0.072437
+P30272,44,M,Medicina General,urgente,Martes,tarde,15,0,19.722,0.052497
+P30273,33,M,Medicina General,normal,Lunes,tarde,30,0,2.839,0.052849
+P30274,53,M,Psicología,normal,Martes,mañana,15,0,2.228,0.052357
+P30275,25,O,Pediatría,normal,Miércoles,mañana,15,0,7.683,0.055753
+P30276,47,F,Pediatría,normal,Miércoles,tarde,15,0,2.791,0.052621
+P30277,53,F,Psicología,normal,Lunes,mañana,30,0,2.707,0.05236
+P30278,15,F,Medicina General,normal,Sábado,tarde,30,0,10.122,0.081899
+P30279,33,F,Cardiología,normal,Jueves,mañana,30,0,5.11,0.05583
+P30280,8,F,Medicina General,normal,Jueves,mañana,30,0,0.214,0.069592
+P30281,80,F,Pediatría,normal,Martes,mañana,15,0,4.985,0.053639
+P30282,36,F,Medicina General,normal,Miércoles,tarde,15,0,1.865,0.051601
+P30283,19,F,Psicología,normal,Sábado,mañana,45,0,0.656,0.051366
+P30284,7,M,Medicina General,normal,Sábado,tarde,45,1,1.542,0.071602
+P30285,26,M,Ginecología,normal,Lunes,mañana,30,0,2.032,0.052653
+P30286,71,F,Medicina General,normal,Miércoles,tarde,15,0,2.799,0.052863
+P30287,45,F,Medicina General,normal,Martes,mañana,30,0,2.344,0.053329
+P30288,51,M,Medicina General,normal,Viernes,mañana,15,0,20.585,0.072078
+P30289,13,F,Psicología,normal,Miércoles,mañana,30,0,2.617,0.072608
+P30290,38,M,Odontología,normal,Lunes,mañana,15,0,0.778,0.051345
+P30291,83,F,Ginecología,normal,Miércoles,mañana,15,0,3.043,0.053319
+P30292,38,M,Psicología,normal,Lunes,tarde,30,0,3.382,0.053345
+P30293,24,F,Medicina General,normal,Jueves,tarde,30,0,1.555,0.050457
+P30294,52,M,Psicología,normal,Lunes,tarde,30,1,1.444,0.053531
+P30295,63,M,Odontología,normal,Martes,mañana,15,0,2.009,0.032746
+P30296,51,F,Odontología,normal,Lunes,mañana,15,0,5.833,0.034508
+P30297,40,F,Medicina General,normal,Jueves,mañana,15,0,8.349,0.058056
+P30298,80,F,Medicina General,normal,Martes,mañana,15,0,2.091,0.057014
+P30299,34,M,Cardiología,normal,Sábado,tarde,30,0,13.347,0.061067
+P30300,32,F,Pediatría,normal,Miércoles,mañana,15,0,2.394,0.052073
+P30301,73,M,Ginecología,urgente,Lunes,mañana,30,0,3.579,0.03358
+P30302,46,M,Medicina General,normal,Martes,tarde,15,0,0.048,0.053403
+P30303,26,F,Medicina General,normal,Jueves,mañana,30,0,9.392,0.06069
+P30304,8,M,Pediatría,normal,Viernes,mañana,15,0,12.271,0.087048
+P30305,67,F,Medicina General,normal,Jueves,mañana,15,0,1.405,0.030184
+P30306,0,M,Pediatría,normal,Viernes,mañana,15,0,7.044,0.078031
+P30307,36,F,Medicina General,normal,Jueves,mañana,30,0,13.47,0.062041
+P30308,73,F,Medicina General,normal,Miércoles,mañana,15,0,1.535,0.052044
+P30309,78,M,Ginecología,normal,Miércoles,tarde,15,0,3.306,0.057048
+P30310,40,F,Medicina General,normal,Viernes,tarde,30,0,19.781,0.0884
+P30311,62,F,Medicina General,normal,Martes,mañana,15,2,14.9,0.077804
+P30312,51,M,Medicina General,normal,Viernes,tarde,15,0,21.48,0.061846
+P30313,23,F,Ginecología,normal,Miércoles,tarde,30,0,7.582,0.058121
+P30314,48,M,Medicina General,normal,Viernes,tarde,15,0,4.515,0.05354
+P30315,64,F,Medicina General,normal,Miércoles,tarde,30,0,2.912,0.053151
+P30316,32,M,Odontología,normal,Lunes,mañana,30,0,0.578,0.050947
+P30317,10,F,Psicología,normal,Lunes,mañana,15,0,8.461,0.074981
+P30318,74,F,Psicología,urgente,Viernes,tarde,15,0,10.553,0.039859
+P30319,57,F,Medicina General,normal,Viernes,tarde,15,0,4.997,0.051341
+P30320,60,F,Psicología,normal,Martes,mañana,15,0,1.149,0.057107
+P30321,17,M,Medicina General,normal,Martes,mañana,15,0,1.814,0.073165
+P30322,15,M,Odontología,normal,Lunes,tarde,30,0,1.282,0.051138
+P30323,62,F,Medicina General,normal,Jueves,mañana,15,0,1.028,0.050904
+P30324,6,M,Ginecología,normal,Miércoles,mañana,15,0,14.853,0.082949
+P30325,65,M,Psicología,normal,Lunes,mañana,15,0,4.78,0.053545
+P30326,83,F,Medicina General,normal,Miércoles,tarde,30,0,3.054,0.052951
+P30327,0,F,Medicina General,normal,Lunes,mañana,30,0,5.604,0.075359
+P30328,42,M,Odontología,normal,Martes,mañana,30,0,4.059,0.054123
+P30329,18,M,Odontología,normal,Martes,mañana,30,0,1.904,0.052382
+P30330,55,M,Odontología,normal,Lunes,mañana,15,0,3.212,0.053151
+P30331,21,M,Ginecología,normal,Miércoles,mañana,15,0,11.119,0.060833
+P30332,48,F,Psicología,normal,Sábado,tarde,30,0,24.619,0.073932
+P30333,14,M,Medicina General,normal,Jueves,mañana,30,0,5.678,0.078462
+P30334,70,F,Medicina General,normal,Miércoles,mañana,30,0,9.132,0.057091
+P30335,10,M,Medicina General,normal,Lunes,mañana,30,0,10.564,0.083743
+P30336,35,F,Odontología,normal,Lunes,mañana,45,0,5.383,0.054761
+P30337,54,M,Medicina General,normal,Viernes,tarde,30,0,4.271,0.05409
+P30338,78,M,Psicología,normal,Viernes,tarde,30,0,8.14,0.059556
+P30339,32,F,Medicina General,normal,Jueves,mañana,15,0,8.204,0.059836
+P30340,82,F,Psicología,urgente,Miércoles,tarde,30,0,12.857,0.042556
+P30341,6,F,Medicina General,normal,Jueves,tarde,15,0,9.512,0.082184
+P30342,7,M,Cardiología,normal,Jueves,mañana,15,0,7.889,0.058043
+P30343,43,F,Medicina General,normal,Viernes,tarde,15,0,4.462,0.054208
+P30344,54,M,Medicina General,urgente,Viernes,mañana,30,0,1.851,0.030911
+P30345,61,F,Psicología,normal,Martes,mañana,15,0,9.35,0.05907
+P30346,58,M,Medicina General,normal,Lunes,tarde,15,0,4.576,0.054838
+P30347,51,F,Medicina General,normal,Lunes,tarde,30,0,16.05,0.04786
+P30348,79,F,Psicología,normal,Martes,mañana,15,0,6.401,0.055994
+P30349,70,M,Odontología,normal,Lunes,mañana,30,0,1.202,0.050343
+P30350,72,F,Medicina General,normal,Miércoles,mañana,30,0,4.118,0.054098
+P30351,74,F,Medicina General,normal,Sábado,tarde,15,0,0.465,0.05075
+P30352,51,M,Psicología,normal,Viernes,tarde,30,0,2.307,0.05139
+P30353,9,M,Psicología,normal,Miércoles,tarde,15,0,10.049,0.061314
+P30354,68,M,Psicología,normal,Miércoles,mañana,15,0,1.117,0.051375
+P30355,61,M,Odontología,normal,Jueves,mañana,15,0,2.109,0.052433
+P30356,46,F,Medicina General,normal,Miércoles,mañana,30,0,2.209,0.052603
+P30357,4,F,Pediatría,normal,Viernes,mañana,15,0,8.415,0.086965
+P30358,51,F,Psicología,normal,Lunes,mañana,15,0,0.486,0.050675
+P30359,40,F,Odontología,normal,Lunes,mañana,45,0,4.012,0.053863
+P30360,51,F,Medicina General,normal,Lunes,mañana,30,0,3.769,0.050992
+P30361,12,F,Cardiología,urgente,Sábado,tarde,30,0,7.381,0.056813
+P30362,3,F,Medicina General,normal,Jueves,tarde,30,0,4.258,0.074161
+P30363,30,M,Medicina General,normal,Miércoles,mañana,30,0,5.39,0.055293
+P30364,8,F,Medicina General,normal,Viernes,tarde,30,0,3.317,0.07488
+P30365,77,F,Psicología,normal,Martes,mañana,15,0,1.42,0.051789
+P30366,30,M,Odontología,normal,Miércoles,tarde,45,0,6.852,0.06255
+P30367,12,F,Odontología,normal,Lunes,mañana,15,0,7.504,0.056409
+P30368,37,M,Medicina General,urgente,Lunes,tarde,30,0,0.746,0.02984
+P30369,22,F,Ginecología,normal,Martes,mañana,15,0,1.201,0.051713
+P30370,57,F,Medicina General,normal,Miércoles,tarde,30,0,3.162,0.053496
+P30371,19,M,Medicina General,normal,Martes,mañana,30,0,0.351,0.069891
+P30372,4,M,Medicina General,normal,Lunes,mañana,15,1,14.452,0.088156
+P30373,32,M,Psicología,normal,Jueves,mañana,15,0,2.426,0.051687
+P30374,41,F,Medicina General,normal,Viernes,mañana,15,1,18.517,0.077231
+P30375,80,F,Medicina General,normal,Martes,mañana,30,0,2.252,0.052315
+P30376,63,M,Medicina General,normal,Martes,mañana,15,0,4.209,0.053021
+P30377,31,F,Medicina General,normal,Jueves,mañana,15,0,10.152,0.062257
+P30378,78,F,Psicología,normal,Viernes,mañana,30,0,8.478,0.058802
+P30379,40,F,Psicología,normal,Sábado,tarde,45,0,9.021,0.057977
+P30380,9,F,Medicina General,normal,Sábado,mañana,30,0,14.297,0.074613
+P30381,55,F,Medicina General,normal,Martes,mañana,15,0,2.507,0.052365
+P30382,59,F,Psicología,normal,Viernes,tarde,30,0,2.873,0.052487
+P30383,61,M,Psicología,normal,Miércoles,mañana,15,0,0.347,0.049886
+P30384,10,F,Ginecología,normal,Lunes,mañana,15,0,5.144,0.07999
+P30385,39,M,Medicina General,normal,Jueves,mañana,30,0,1.781,0.051924
+P30386,64,F,Psicología,normal,Lunes,tarde,30,0,3.309,0.051744
+P30387,41,F,Medicina General,normal,Miércoles,tarde,15,0,1.153,0.051802
+P30388,22,F,Medicina General,normal,Miércoles,mañana,30,0,4.445,0.05312
+P30389,46,M,Odontología,normal,Lunes,mañana,15,0,5.22,0.054544
+P30390,58,M,Psicología,normal,Lunes,mañana,15,0,1.683,0.051069
+P30391,8,F,Psicología,normal,Jueves,tarde,15,0,2.427,0.072408
+P30392,54,M,Odontología,normal,Lunes,mañana,30,0,3.358,0.05262
+P30393,4,M,Medicina General,normal,Viernes,tarde,15,0,2.188,0.071519
+P30394,25,F,Odontología,normal,Lunes,mañana,15,0,9.085,0.058575
+P30395,5,M,Odontología,urgente,Miércoles,tarde,15,0,5.937,0.075968
+P30396,84,M,Psicología,normal,Lunes,tarde,30,0,0.195,0.050659
+P30397,30,M,Ginecología,normal,Martes,mañana,15,0,1.477,0.032785
+P30398,53,F,Medicina General,normal,Martes,mañana,30,1,2.086,0.057073
+P30399,4,M,Medicina General,normal,Lunes,tarde,15,1,4.504,0.076773
+P30400,58,F,Pediatría,normal,Lunes,mañana,30,0,0.753,0.050509
+P30401,63,M,Medicina General,normal,Viernes,tarde,15,1,0.447,0.055213
+P30402,54,F,Psicología,normal,Sábado,tarde,15,0,9.956,0.077777
+P30403,44,F,Medicina General,normal,Viernes,tarde,30,0,3.723,0.053192
+P30404,74,M,Pediatría,normal,Jueves,tarde,15,0,1.155,0.051217
+P30405,18,M,Medicina General,normal,Jueves,mañana,30,1,5.107,0.075213
+P30406,43,F,Psicología,normal,Lunes,mañana,15,0,4.029,0.054329
+P30407,67,F,Medicina General,normal,Sábado,tarde,30,0,2.933,0.053581
+P30408,48,M,Medicina General,urgente,Lunes,tarde,15,0,8.613,0.035312
+P30409,12,F,Pediatría,normal,Viernes,mañana,15,0,5.528,0.076563
+P30410,47,M,Psicología,normal,Lunes,mañana,15,0,0.706,0.0507
+P30411,36,M,Medicina General,normal,Miércoles,mañana,15,0,9.484,0.05636
+P30412,27,F,Pediatría,normal,Jueves,mañana,15,0,4.786,0.070181
+P30413,30,F,Medicina General,normal,Jueves,mañana,15,0,2.034,0.053968
+P30414,6,M,Psicología,normal,Sábado,tarde,15,0,9.43,0.081077
+P30415,15,M,Medicina General,urgente,Martes,tarde,15,0,6.391,0.061418
+P30416,71,M,Medicina General,urgente,Martes,mañana,15,0,3.795,0.035265
+P30417,60,M,Medicina General,normal,Viernes,tarde,15,0,4.543,0.052027
+P30418,75,F,Psicología,normal,Miércoles,mañana,15,0,8.679,0.059456
+P30419,47,F,Medicina General,normal,Jueves,mañana,15,0,3.891,0.05479
+P30420,15,M,Medicina General,normal,Sábado,tarde,30,0,3.505,0.073755
+P30421,29,F,Psicología,normal,Lunes,tarde,30,0,2.035,0.052253
+P30422,7,M,Medicina General,normal,Miércoles,tarde,30,0,10.655,0.07926
+P30423,64,M,Medicina General,normal,Lunes,tarde,30,0,0.669,0.049887
+P30424,14,M,Odontología,normal,Lunes,tarde,15,0,4.479,0.07398
+P30425,16,F,Medicina General,normal,Lunes,mañana,15,1,8.259,0.065174
+P30426,2,M,Medicina General,normal,Lunes,mañana,30,0,1.542,0.074858
+P30427,92,M,Psicología,urgente,Lunes,mañana,15,0,0.068,0.029602
+P30428,80,F,Psicología,normal,Miércoles,tarde,30,0,15.552,0.064433
+P30429,80,F,Psicología,normal,Sábado,tarde,15,0,2.283,0.053435
+P30430,56,F,Ginecología,normal,Lunes,mañana,30,0,2.567,0.052021
+P30431,11,F,Medicina General,normal,Miércoles,tarde,30,0,5.143,0.076436
+P30432,10,M,Medicina General,urgente,Sábado,tarde,30,0,1.416,0.053801
+P30433,13,F,Medicina General,normal,Jueves,mañana,30,0,7.341,0.073856
+P30434,69,M,Psicología,normal,Miércoles,mañana,30,0,10.172,0.061198
+P30435,58,F,Psicología,normal,Jueves,mañana,30,0,0.586,0.050942
+P30436,38,F,Pediatría,normal,Jueves,mañana,15,0,4.579,0.055756
+P30437,21,F,Psicología,normal,Sábado,tarde,30,0,3.073,0.054341
+P30438,57,M,Odontología,urgente,Lunes,mañana,30,0,2.264,0.034473
+P30439,11,M,Medicina General,normal,Sábado,tarde,15,0,30.115,0.087409
+P30440,19,M,Cardiología,normal,Martes,mañana,30,0,5.196,0.053608
+P30441,33,M,Medicina General,normal,Miércoles,tarde,15,0,2.942,0.05255
+P30442,55,M,Medicina General,normal,Viernes,tarde,30,0,2.843,0.052502
+P30443,9,M,Psicología,normal,Jueves,mañana,30,0,5.871,0.075204
+P30444,59,F,Medicina General,normal,Miércoles,tarde,30,0,2.826,0.052976
+P30445,62,F,Cardiología,normal,Sábado,mañana,30,0,1.648,0.051919
+P30446,36,M,Ginecología,normal,Jueves,tarde,30,0,1.59,0.051985
+P30447,83,M,Medicina General,normal,Jueves,tarde,30,0,4.126,0.053986
+P30448,36,M,Psicología,normal,Lunes,mañana,15,0,11.86,0.06092
+P30449,44,F,Psicología,normal,Miércoles,mañana,15,0,0.0,0.049104
+P30450,12,M,Ginecología,normal,Martes,mañana,15,0,6.027,0.074995
+P30451,67,F,Medicina General,normal,Sábado,tarde,15,0,7.361,0.055439
+P30452,51,F,Psicología,normal,Martes,mañana,15,0,1.253,0.050754
+P30453,63,F,Medicina General,normal,Miércoles,tarde,15,0,5.27,0.055152
+P30454,64,M,Pediatría,normal,Jueves,tarde,30,0,1.481,0.051271
+P30455,10,M,Medicina General,urgente,Lunes,tarde,15,0,2.989,0.052512
+P30456,0,F,Cardiología,normal,Miércoles,tarde,15,0,7.563,0.077364
+P30457,57,F,Psicología,normal,Martes,mañana,15,0,7.492,0.05992
+P30458,81,F,Psicología,urgente,Sábado,mañana,15,0,22.461,0.051408
+P30459,29,F,Medicina General,normal,Jueves,mañana,15,0,10.528,0.061886
+P30460,62,M,Psicología,normal,Martes,mañana,15,0,6.856,0.056923
+P30461,22,M,Psicología,normal,Jueves,mañana,15,0,5.273,0.054452
+P30462,3,F,Medicina General,normal,Jueves,mañana,15,0,0.403,0.069829
+P30463,58,F,Psicología,normal,Miércoles,mañana,15,0,0.877,0.050642
+P30464,58,F,Psicología,normal,Sábado,mañana,30,0,15.64,0.063851
+P30465,16,F,Medicina General,normal,Jueves,mañana,30,0,2.693,0.052753
+P30466,22,F,Psicología,urgente,Lunes,tarde,30,0,1.183,0.051149
+P30467,18,F,Psicología,normal,Lunes,mañana,30,0,5.946,0.058982
+P30468,49,M,Medicina General,normal,Martes,mañana,30,1,3.764,0.059268
+P30469,22,M,Psicología,normal,Martes,tarde,15,2,5.709,0.061576
+P30470,57,M,Psicología,normal,Martes,mañana,15,0,0.104,0.05043
+P30471,8,F,Medicina General,normal,Jueves,mañana,30,0,7.316,0.072623
+P30472,77,F,Medicina General,normal,Lunes,mañana,15,1,0.124,0.054483
+P30473,38,F,Odontología,normal,Miércoles,mañana,30,0,1.071,0.054609
+P30474,59,F,Medicina General,normal,Sábado,mañana,45,0,9.685,0.057544
+P30475,18,F,Psicología,normal,Sábado,mañana,30,0,0.866,0.051186
+P30476,26,F,Medicina General,normal,Viernes,tarde,15,0,2.471,0.052844
+P30477,6,F,Medicina General,normal,Jueves,mañana,15,0,0.822,0.07099
+P30478,23,F,Odontología,normal,Miércoles,mañana,15,0,8.713,0.062114
+P30479,15,F,Medicina General,normal,Jueves,mañana,30,0,13.968,0.0633
+P30480,0,F,Medicina General,urgente,Lunes,tarde,30,0,3.368,0.053489
+P30481,3,M,Medicina General,normal,Viernes,mañana,15,0,8.041,0.075045
+P30482,28,M,Odontología,normal,Lunes,tarde,30,0,5.56,0.05469
+P30483,21,F,Medicina General,normal,Miércoles,mañana,15,0,6.115,0.055323
+P30484,45,F,Psicología,urgente,Martes,tarde,30,0,0.315,0.030088
+P30485,53,F,Medicina General,normal,Viernes,mañana,15,0,13.836,0.079383
+P30486,59,F,Psicología,normal,Jueves,mañana,15,0,7.681,0.05716
+P30487,64,M,Psicología,normal,Lunes,tarde,15,1,11.18,0.059508
+P30488,33,F,Medicina General,normal,Jueves,mañana,30,0,1.055,0.056138
+P30489,67,F,Medicina General,normal,Miércoles,mañana,30,0,5.602,0.057365
+P30490,32,F,Medicina General,normal,Miércoles,tarde,15,0,1.813,0.051902
+P30491,24,M,Odontología,normal,Lunes,tarde,15,0,5.606,0.054989
+P30492,33,F,Medicina General,normal,Lunes,mañana,15,0,3.928,0.054361
+P30493,20,F,Ginecología,normal,Miércoles,mañana,15,0,3.0,0.053355
+P30494,53,F,Medicina General,normal,Lunes,mañana,30,0,1.143,0.049749
+P30495,29,F,Pediatría,normal,Jueves,mañana,30,0,0.685,0.066103
+P30496,65,M,Medicina General,urgente,Jueves,mañana,15,0,1.978,0.032405
+P30497,59,F,Medicina General,normal,Martes,mañana,30,1,1.8,0.058342
+P30498,70,F,Medicina General,normal,Miércoles,mañana,15,0,4.254,0.055272
+P30499,22,M,Medicina General,normal,Sábado,tarde,15,0,6.092,0.07168
+P30500,81,M,Pediatría,normal,Martes,mañana,15,0,6.864,0.055678
+P30501,75,F,Psicología,normal,Viernes,mañana,30,0,2.398,0.052481
+P30502,42,M,Medicina General,normal,Viernes,mañana,15,0,22.165,0.070429
+P30503,85,M,Odontología,normal,Viernes,tarde,30,0,11.736,0.058907
+P30504,17,F,Medicina General,normal,Jueves,mañana,30,0,2.717,0.072654
+P30505,12,F,Medicina General,normal,Jueves,mañana,30,1,5.868,0.080969
+P30506,16,F,Medicina General,normal,Jueves,mañana,15,0,1.595,0.070744
+P30507,55,F,Cardiología,normal,Jueves,mañana,30,0,0.379,0.050124
+P30508,73,M,Medicina General,normal,Viernes,tarde,30,0,2.858,0.053674
+P30509,33,F,Odontología,urgente,Lunes,mañana,30,0,2.642,0.032638
+P30510,83,F,Ginecología,normal,Lunes,mañana,30,0,2.141,0.052842
+P30511,22,F,Medicina General,normal,Miércoles,mañana,15,0,2.127,0.05214
+P30512,26,F,Odontología,normal,Jueves,tarde,30,0,3.004,0.053186
+P30513,19,F,Medicina General,normal,Lunes,tarde,15,0,5.45,0.072582
+P30514,21,F,Medicina General,normal,Jueves,mañana,15,0,6.531,0.075884
+P30515,3,F,Medicina General,normal,Jueves,mañana,30,0,4.739,0.076549
+P30516,47,F,Cardiología,normal,Jueves,mañana,30,0,0.77,0.050528
+P30517,26,M,Medicina General,normal,Martes,mañana,15,0,1.615,0.052342
+P30518,42,F,Ginecología,urgente,Sábado,mañana,30,0,6.782,0.050861
+P30519,10,M,Ginecología,normal,Lunes,mañana,30,0,1.437,0.050855
+P30520,6,F,Pediatría,normal,Viernes,mañana,15,0,5.304,0.075566
+P30521,55,M,Psicología,normal,Lunes,mañana,30,0,0.269,0.049072
+P30522,14,M,Medicina General,normal,Miércoles,tarde,15,0,4.382,0.052759
+P30523,6,M,Medicina General,normal,Sábado,tarde,30,0,0.94,0.064247
+P30524,37,M,Odontología,normal,Lunes,tarde,15,0,0.817,0.050781
+P30525,5,M,Medicina General,normal,Sábado,tarde,15,0,5.023,0.075893
+P30526,38,F,Psicología,normal,Jueves,tarde,30,0,14.747,0.064555
+P30527,72,M,Medicina General,normal,Lunes,tarde,15,1,2.642,0.055041
+P30528,66,M,Odontología,urgente,Jueves,mañana,45,0,5.234,0.052901
+P30529,77,M,Odontología,normal,Jueves,mañana,15,0,1.985,0.051548
+P30530,56,M,Psicología,normal,Miércoles,mañana,15,0,0.67,0.050234
+P30531,71,F,Medicina General,normal,Lunes,mañana,30,0,3.633,0.052943
+P30532,15,F,Pediatría,normal,Viernes,mañana,15,0,12.768,0.08435
+P30533,75,F,Cardiología,normal,Miércoles,mañana,30,0,2.078,0.052592
+P30534,74,F,Medicina General,normal,Martes,mañana,15,0,4.734,0.055589
+P30535,41,M,Medicina General,normal,Jueves,mañana,15,0,8.998,0.060708
+P30536,84,M,Medicina General,normal,Jueves,mañana,15,0,1.187,0.051035
+P30537,58,M,Pediatría,normal,Lunes,mañana,30,0,0.761,0.048826
+P30538,82,F,Medicina General,normal,Miércoles,mañana,15,0,1.669,0.053218
+P30539,58,F,Ginecología,normal,Viernes,mañana,30,0,0.0,0.048059
+P30540,59,F,Medicina General,normal,Sábado,tarde,15,0,3.358,0.054074
+P30541,64,F,Medicina General,normal,Miércoles,mañana,15,0,3.581,0.05394
+P30542,75,M,Odontología,normal,Jueves,mañana,45,0,2.109,0.052843
+P30543,23,F,Pediatría,normal,Martes,tarde,30,0,2.5,0.063248
+P30544,52,M,Medicina General,normal,Lunes,mañana,30,0,1.966,0.051136
+P30545,83,F,Medicina General,normal,Lunes,mañana,30,0,2.213,0.051484
+P30546,61,F,Medicina General,normal,Miércoles,tarde,15,0,1.297,0.051872
+P30547,32,F,Medicina General,normal,Martes,mañana,15,0,1.77,0.05317
+P30548,17,F,Cardiología,normal,Lunes,mañana,15,0,0.936,0.055289
+P30549,52,M,Odontología,normal,Jueves,mañana,15,0,6.793,0.052496
+P30550,57,F,Psicología,normal,Jueves,tarde,15,0,0.935,0.051521
+P30551,62,M,Psicología,normal,Lunes,mañana,15,0,3.06,0.052795
+P30552,80,F,Psicología,urgente,Lunes,mañana,30,0,2.587,0.03326
+P30553,74,M,Psicología,normal,Sábado,tarde,15,0,2.007,0.051773
+P30554,89,F,Ginecología,normal,Miércoles,mañana,30,1,5.218,0.05442
+P30555,18,F,Cardiología,normal,Lunes,mañana,30,0,0.415,0.051016
+P30556,45,F,Medicina General,normal,Miércoles,mañana,30,1,2.929,0.057875
+P30557,34,M,Pediatría,normal,Viernes,tarde,15,0,0.326,0.049017
+P30558,15,F,Odontología,normal,Lunes,tarde,30,0,4.31,0.073971
+P30559,63,M,Medicina General,urgente,Jueves,mañana,15,0,15.545,0.046197
+P30560,7,F,Medicina General,normal,Lunes,tarde,15,0,10.747,0.062322
+P30561,5,F,Ginecología,normal,Miércoles,tarde,15,0,5.582,0.07485
+P30562,74,M,Medicina General,normal,Miércoles,tarde,15,0,7.979,0.058353
+P30563,36,F,Medicina General,normal,Viernes,tarde,15,0,1.635,0.051987
+P30564,66,M,Medicina General,normal,Viernes,tarde,15,0,2.06,0.050736
+P30565,85,M,Cardiología,normal,Martes,mañana,30,0,6.023,0.05373
+P30566,47,F,Psicología,normal,Viernes,tarde,15,0,16.301,0.063679
+P30567,41,M,Medicina General,normal,Martes,mañana,15,0,2.038,0.054227
+P30568,42,F,Odontología,normal,Martes,mañana,30,0,3.748,0.059292
+P30569,31,M,Odontología,normal,Miércoles,tarde,15,0,5.502,0.053174
+P30570,85,F,Medicina General,normal,Miércoles,mañana,15,0,2.768,0.053255
+P30571,10,M,Medicina General,normal,Sábado,mañana,15,0,13.713,0.082372
+P30572,34,F,Psicología,normal,Sábado,tarde,15,0,23.88,0.079472
+P30573,26,M,Psicología,normal,Lunes,mañana,30,0,0.939,0.054019
+P30574,32,F,Medicina General,normal,Martes,tarde,45,0,5.358,0.053334
+P30575,17,F,Medicina General,normal,Viernes,tarde,15,0,5.776,0.055641
+P30576,62,F,Medicina General,normal,Miércoles,mañana,30,0,13.246,0.061674
+P30577,44,F,Medicina General,normal,Jueves,mañana,15,0,13.522,0.066731
+P30578,70,F,Psicología,normal,Lunes,mañana,30,1,4.905,0.062423
+P30579,10,O,Cardiología,normal,Miércoles,mañana,30,0,11.071,0.081668
+P30580,65,M,Medicina General,normal,Lunes,tarde,15,0,4.96,0.055394
+P30581,44,M,Medicina General,normal,Viernes,tarde,30,0,10.855,0.059507
+P30582,80,M,Medicina General,normal,Martes,mañana,30,0,3.341,0.053172
+P30583,77,F,Medicina General,normal,Jueves,mañana,30,0,2.217,0.052202
+P30584,69,F,Medicina General,normal,Jueves,mañana,30,0,3.437,0.053641
+P30585,59,M,Cardiología,normal,Lunes,tarde,30,0,1.674,0.051397
+P30586,7,M,Ginecología,normal,Sábado,mañana,30,0,6.736,0.074676
+P30587,24,F,Cardiología,normal,Jueves,mañana,30,0,0.539,0.053452
+P30588,42,F,Medicina General,normal,Viernes,mañana,30,1,16.54,0.073919
+P30589,23,M,Psicología,normal,Jueves,tarde,30,0,4.888,0.05354
+P30590,21,M,Pediatría,normal,Martes,mañana,15,0,6.761,0.055693
+P30591,12,M,Medicina General,normal,Miércoles,tarde,15,0,1.729,0.051862
+P30592,0,F,Medicina General,normal,Viernes,mañana,30,0,3.145,0.073609
+P30593,12,M,Medicina General,normal,Viernes,tarde,15,0,4.809,0.075911
+P30594,6,F,Medicina General,normal,Viernes,mañana,15,0,5.041,0.075296
+P30595,49,F,Pediatría,normal,Viernes,tarde,15,0,4.482,0.05341
+P30596,62,M,Cardiología,normal,Lunes,mañana,30,0,2.29,0.052134
+P30597,65,M,Medicina General,normal,Viernes,tarde,15,0,0.478,0.050435
+P30598,14,M,Medicina General,normal,Jueves,tarde,30,1,5.14,0.076105
+P30599,60,F,Psicología,normal,Jueves,mañana,15,0,2.327,0.052144
+P30600,31,F,Pediatría,normal,Sábado,tarde,45,0,2.281,0.05237
+P30601,44,F,Medicina General,normal,Martes,mañana,15,0,9.016,0.058773
+P30602,1,M,Pediatría,urgente,Sábado,tarde,30,0,1.676,0.050576
+P30603,44,F,Cardiología,normal,Sábado,tarde,30,0,0.683,0.050423
+P30604,41,F,Odontología,normal,Lunes,mañana,15,0,4.032,0.053855
+P30605,30,M,Ginecología,normal,Jueves,mañana,15,0,10.569,0.059252
+P30606,52,M,Medicina General,normal,Lunes,mañana,30,0,3.875,0.0537
+P30607,77,F,Medicina General,normal,Viernes,tarde,30,0,2.592,0.053185
+P30608,13,F,Psicología,normal,Jueves,tarde,15,0,1.793,0.071792
+P30609,16,F,Medicina General,normal,Jueves,mañana,15,0,4.474,0.074827
+P30610,12,M,Medicina General,normal,Sábado,tarde,15,0,11.687,0.064359
+P30611,36,F,Psicología,normal,Miércoles,mañana,15,0,5.154,0.053412
+P30612,11,M,Medicina General,normal,Lunes,mañana,15,0,7.063,0.060995
+P30613,60,F,Medicina General,normal,Martes,mañana,15,0,0.262,0.053855
+P30614,69,F,Medicina General,normal,Sábado,tarde,30,0,1.769,0.053543
+P30615,61,M,Odontología,normal,Lunes,mañana,15,0,6.112,0.053415
+P30616,46,M,Odontología,normal,Sábado,tarde,15,0,10.283,0.057995
+P30617,59,M,Psicología,normal,Miércoles,mañana,15,0,1.144,0.050542
+P30618,64,F,Ginecología,normal,Viernes,tarde,30,1,1.351,0.052014
+P30619,29,M,Ginecología,normal,Martes,mañana,45,0,4.448,0.05252
+P30620,13,F,Medicina General,normal,Sábado,mañana,30,0,1.229,0.073128
+P30621,29,F,Medicina General,normal,Martes,tarde,15,1,4.243,0.057866
+P30622,38,F,Medicina General,normal,Viernes,mañana,15,0,4.056,0.054616
+P30623,7,M,Medicina General,normal,Martes,mañana,15,0,2.817,0.073287
+P30624,85,M,Psicología,normal,Sábado,tarde,30,0,10.212,0.060696
+P30625,39,M,Medicina General,normal,Martes,mañana,30,0,1.251,0.056204
+P30626,20,F,Ginecología,normal,Jueves,mañana,15,0,6.692,0.075093
+P30627,47,M,Medicina General,normal,Viernes,mañana,30,0,4.673,0.055608
+P30628,30,M,Psicología,normal,Miércoles,mañana,15,0,0.793,0.055551
+P30629,31,F,Medicina General,normal,Viernes,tarde,15,0,4.524,0.054056
+P30630,61,F,Psicología,normal,Sábado,tarde,15,0,0.767,0.05222
+P30631,50,F,Pediatría,normal,Miércoles,mañana,15,0,0.086,0.049154
+P30632,28,F,Medicina General,normal,Miércoles,tarde,15,0,2.785,0.051093
+P30633,62,F,Medicina General,normal,Miércoles,mañana,15,0,3.646,0.052985
+P30634,46,M,Odontología,normal,Jueves,mañana,30,1,5.08,0.060988
+P30635,63,F,Medicina General,normal,Martes,mañana,15,0,4.524,0.056316
+P30636,32,M,Medicina General,normal,Martes,mañana,15,0,12.759,0.061606
+P30637,59,F,Medicina General,normal,Miércoles,mañana,30,0,7.171,0.057323
+P30638,45,M,Medicina General,normal,Viernes,mañana,15,0,9.791,0.061473
+P30639,52,F,Cardiología,normal,Jueves,mañana,30,0,2.451,0.05162
+P30640,65,F,Psicología,normal,Lunes,tarde,30,0,0.0,0.049552
+P30641,32,M,Medicina General,normal,Jueves,mañana,15,0,12.112,0.06079
+P30642,78,F,Medicina General,normal,Martes,mañana,15,0,8.052,0.056214
+P30643,49,M,Psicología,normal,Sábado,mañana,15,0,1.095,0.05099
+P30644,61,F,Medicina General,normal,Viernes,tarde,15,0,3.206,0.054084
+P30645,19,F,Medicina General,normal,Viernes,tarde,15,0,1.381,0.071612
+P30646,39,F,Medicina General,normal,Miércoles,mañana,30,0,1.829,0.051887
+P30647,62,F,Psicología,normal,Lunes,mañana,15,0,4.592,0.05395
+P30648,79,M,Psicología,normal,Viernes,mañana,15,0,6.117,0.056292
+P30649,28,M,Medicina General,normal,Viernes,mañana,30,0,20.508,0.085564
+P30650,9,F,Medicina General,normal,Lunes,tarde,30,0,1.741,0.072997
+P30651,60,F,Medicina General,normal,Miércoles,tarde,30,0,3.254,0.052357
+P30652,23,M,Psicología,normal,Martes,mañana,15,0,5.664,0.076574
+P30653,27,M,Odontología,urgente,Miércoles,mañana,15,0,10.876,0.042661
+P30654,60,M,Medicina General,normal,Viernes,tarde,15,0,4.455,0.054056
+P30655,70,M,Ginecología,normal,Lunes,mañana,30,0,4.371,0.053897
+P30656,78,F,Psicología,normal,Sábado,tarde,15,0,10.715,0.060079
+P30657,30,F,Medicina General,normal,Miércoles,mañana,30,0,14.786,0.063501
+P30658,9,F,Medicina General,normal,Miércoles,tarde,30,0,5.771,0.079356
+P30659,9,F,Medicina General,normal,Sábado,tarde,45,1,0.668,0.071727
+P30660,82,M,Odontología,normal,Jueves,mañana,30,0,13.736,0.066858
+P30661,62,M,Medicina General,normal,Miércoles,tarde,15,0,8.831,0.062619
+P30662,41,M,Odontología,normal,Jueves,tarde,30,0,2.73,0.052309
+P30663,81,M,Psicología,normal,Martes,mañana,15,0,3.948,0.054956
+P30664,34,F,Medicina General,normal,Jueves,tarde,15,0,2.956,0.053929
+P30665,28,F,Medicina General,normal,Miércoles,mañana,30,0,0.999,0.051061
+P30666,80,M,Medicina General,normal,Viernes,tarde,15,0,10.772,0.066668
+P30667,15,M,Pediatría,normal,Miércoles,mañana,15,0,2.367,0.07211
+P30668,27,M,Psicología,normal,Miércoles,tarde,15,0,2.377,0.052455
+P30669,14,M,Medicina General,normal,Sábado,tarde,15,0,4.541,0.074652
+P30670,57,M,Ginecología,urgente,Jueves,tarde,30,0,7.703,0.036451
+P30671,46,M,Odontología,urgente,Martes,mañana,15,0,5.115,0.054298
+P30672,60,F,Medicina General,normal,Viernes,tarde,15,0,2.404,0.052901
+P30673,42,F,Medicina General,normal,Martes,mañana,30,0,3.444,0.053259
+P30674,46,M,Medicina General,normal,Martes,tarde,15,0,4.436,0.053402
+P30675,86,M,Odontología,normal,Jueves,mañana,30,0,1.197,0.05184
+P30676,14,M,Medicina General,normal,Martes,tarde,30,0,26.787,0.076259
+P30677,58,F,Cardiología,normal,Lunes,tarde,30,0,6.532,0.057008
+P30678,44,M,Medicina General,normal,Sábado,tarde,15,0,2.543,0.052613
+P30679,13,F,Psicología,normal,Lunes,tarde,30,0,5.555,0.075004
+P30680,56,M,Medicina General,normal,Viernes,tarde,15,0,2.576,0.054243
+P30681,27,M,Medicina General,normal,Jueves,mañana,15,0,8.639,0.058228
+P30682,43,F,Cardiología,normal,Martes,mañana,15,0,2.463,0.055908
+P30683,9,M,Pediatría,normal,Viernes,tarde,15,0,4.784,0.055035
+P30684,39,F,Ginecología,normal,Jueves,mañana,30,0,1.377,0.05209
+P30685,61,F,Pediatría,normal,Lunes,mañana,30,0,11.996,0.067946
+P30686,50,M,Psicología,urgente,Viernes,mañana,15,1,0.752,0.036525
+P30687,68,F,Medicina General,normal,Martes,mañana,30,0,5.595,0.05412
+P30688,45,F,Psicología,normal,Jueves,mañana,15,0,1.356,0.049807
+P30689,63,F,Psicología,normal,Martes,mañana,30,0,8.643,0.059883
+P30690,40,F,Medicina General,normal,Martes,mañana,15,0,1.244,0.051323
+P30691,76,F,Medicina General,normal,Sábado,mañana,30,0,13.593,0.062843
+P30692,47,F,Medicina General,normal,Miércoles,tarde,15,0,1.297,0.051312
+P30693,11,F,Medicina General,normal,Jueves,mañana,30,0,3.804,0.07276
+P30694,80,M,Ginecología,normal,Miércoles,tarde,30,1,5.514,0.055835
+P30695,9,M,Pediatría,normal,Martes,mañana,15,0,7.354,0.079436
+P30696,48,F,Medicina General,normal,Viernes,tarde,15,0,4.684,0.055542
+P30697,60,M,Medicina General,normal,Jueves,tarde,30,0,1.14,0.051183
+P30698,81,F,Medicina General,normal,Viernes,mañana,15,1,10.947,0.062093
+P30699,7,M,Odontología,normal,Lunes,tarde,15,0,3.326,0.074113
+P30700,54,F,Psicología,normal,Sábado,tarde,30,0,6.246,0.056855
+P30701,84,F,Cardiología,normal,Martes,mañana,15,0,9.177,0.061665
+P30702,50,M,Psicología,urgente,Jueves,mañana,15,0,1.249,0.030657
+P30703,5,M,Medicina General,normal,Viernes,tarde,15,0,13.996,0.089299
+P30704,66,F,Medicina General,normal,Viernes,mañana,15,0,6.237,0.052384
+P30705,29,M,Medicina General,normal,Sábado,tarde,15,0,9.678,0.059059
+P30706,61,F,Medicina General,normal,Miércoles,tarde,30,0,3.246,0.053179
+P30707,36,M,Odontología,normal,Jueves,mañana,15,0,5.522,0.060003
+P30708,87,M,Psicología,normal,Martes,tarde,15,0,12.649,0.06207
+P30709,55,M,Pediatría,urgente,Sábado,mañana,30,0,1.92,0.053696
+P30710,58,F,Pediatría,normal,Viernes,tarde,15,0,14.905,0.068843
+P30711,79,M,Medicina General,normal,Sábado,tarde,15,0,8.901,0.060848
+P30712,57,M,Psicología,normal,Sábado,tarde,15,0,14.053,0.074653
+P30713,11,F,Pediatría,normal,Viernes,mañana,15,0,3.896,0.074258
+P30714,77,F,Ginecología,normal,Viernes,mañana,30,1,2.178,0.056878
+P30715,36,F,Pediatría,normal,Lunes,tarde,15,0,4.506,0.053471
+P30716,18,M,Psicología,normal,Viernes,tarde,30,1,0.661,0.075417
+P30717,71,F,Medicina General,normal,Viernes,tarde,30,1,0.765,0.052997
+P30718,45,M,Medicina General,normal,Viernes,tarde,15,0,1.813,0.05232
+P30719,55,M,Odontología,normal,Martes,mañana,45,0,1.824,0.033641
+P30720,25,F,Medicina General,normal,Viernes,tarde,15,1,7.629,0.058967
+P30721,9,M,Medicina General,normal,Viernes,tarde,15,0,1.247,0.071621
+P30722,91,F,Psicología,normal,Lunes,mañana,30,0,2.393,0.051462
+P30723,87,F,Psicología,normal,Lunes,mañana,15,0,0.588,0.050015
+P30724,43,F,Medicina General,normal,Miércoles,mañana,15,0,4.013,0.053904
+P30725,79,F,Medicina General,normal,Viernes,mañana,30,0,9.435,0.061367
+P30726,58,F,Medicina General,normal,Viernes,mañana,30,0,13.148,0.0648
+P30727,9,M,Medicina General,normal,Viernes,tarde,15,0,4.034,0.073213
+P30728,83,M,Medicina General,normal,Jueves,mañana,15,0,4.421,0.054985
+P30729,25,M,Medicina General,normal,Martes,tarde,15,0,20.326,0.075618
+P30730,19,F,Odontología,normal,Jueves,mañana,15,0,3.315,0.073786
+P30731,30,F,Medicina General,normal,Viernes,tarde,15,0,2.379,0.051115
+P30732,34,M,Pediatría,normal,Viernes,tarde,15,0,4.696,0.05262
+P30733,61,M,Medicina General,normal,Viernes,tarde,30,0,0.848,0.051254
+P30734,8,M,Medicina General,normal,Jueves,tarde,15,0,2.415,0.071996
+P30735,65,M,Ginecología,normal,Lunes,mañana,15,0,6.446,0.041179
+P30736,69,M,Medicina General,normal,Martes,tarde,30,0,11.155,0.061018
+P30737,50,M,Medicina General,normal,Viernes,mañana,15,0,11.68,0.06009
+P30738,70,F,Medicina General,normal,Miércoles,tarde,15,0,1.538,0.050453
+P30739,12,M,Medicina General,normal,Viernes,tarde,15,0,1.845,0.072046
+P30740,65,M,Medicina General,normal,Lunes,mañana,15,0,5.925,0.055316
+P30741,26,M,Ginecología,normal,Martes,mañana,15,0,1.897,0.051994
+P30742,82,F,Medicina General,normal,Sábado,mañana,30,0,2.369,0.051751
+P30743,78,F,Medicina General,normal,Sábado,mañana,15,0,0.155,0.055046
+P30744,86,M,Medicina General,normal,Martes,mañana,15,0,17.3,0.070188
+P30745,31,F,Medicina General,normal,Lunes,mañana,15,1,9.24,0.062745
+P30746,54,M,Psicología,normal,Viernes,tarde,30,0,2.635,0.057846
+P30747,64,M,Medicina General,normal,Jueves,mañana,15,0,10.305,0.060017
+P30748,31,F,Medicina General,normal,Miércoles,mañana,30,0,3.227,0.052587
+P30749,57,M,Cardiología,normal,Lunes,mañana,30,0,0.181,0.048877
+P30750,28,F,Psicología,normal,Jueves,mañana,15,0,6.04,0.058583
+P30751,24,F,Ginecología,normal,Jueves,mañana,15,0,4.311,0.07434
+P30752,48,F,Medicina General,normal,Miércoles,mañana,30,0,3.815,0.052837
+P30753,70,F,Medicina General,normal,Lunes,tarde,30,0,2.009,0.050881
+P30754,26,M,Cardiología,normal,Viernes,mañana,30,0,2.952,0.051945
+P30755,81,F,Medicina General,normal,Martes,mañana,15,0,5.301,0.055518
+P30756,30,M,Pediatría,normal,Miércoles,mañana,15,0,1.146,0.052398
+P30757,4,M,Ginecología,urgente,Martes,tarde,15,0,6.149,0.036888
+P30758,79,O,Cardiología,normal,Lunes,mañana,30,0,5.463,0.061995
+P30759,56,F,Psicología,normal,Miércoles,mañana,15,0,4.892,0.05597
+P30760,7,M,Medicina General,normal,Jueves,mañana,15,0,1.934,0.071968
+P30761,68,F,Medicina General,normal,Viernes,tarde,30,0,4.212,0.054269
+P30762,60,M,Pediatría,normal,Viernes,tarde,15,0,0.261,0.049998
+P30763,56,M,Psicología,normal,Viernes,tarde,15,0,2.165,0.052255
+P30764,58,F,Psicología,normal,Lunes,mañana,30,0,1.569,0.056147
+P30765,77,F,Psicología,normal,Viernes,tarde,15,0,7.472,0.058728
+P30766,85,F,Psicología,normal,Viernes,mañana,15,0,1.682,0.050791
+P30767,41,F,Medicina General,normal,Viernes,mañana,30,0,9.353,0.07205
+P30768,58,M,Pediatría,normal,Lunes,mañana,15,0,7.453,0.054554
+P30769,29,M,Pediatría,normal,Jueves,mañana,15,0,1.022,0.050483
+P30770,32,M,Medicina General,normal,Viernes,tarde,15,0,5.148,0.055096
+P30771,31,M,Medicina General,normal,Viernes,tarde,15,0,3.153,0.053044
+P30772,37,F,Medicina General,normal,Jueves,mañana,15,0,5.545,0.054426
+P30773,15,F,Medicina General,normal,Jueves,mañana,30,0,2.2,0.072608
+P30774,31,M,Medicina General,normal,Sábado,mañana,30,0,21.293,0.075153
+P30775,58,M,Medicina General,normal,Miércoles,tarde,15,0,12.597,0.062295
+P30776,59,M,Pediatría,normal,Lunes,tarde,30,0,3.648,0.052745
+P30777,12,F,Medicina General,normal,Jueves,mañana,15,0,1.737,0.07202
+P30778,55,M,Psicología,urgente,Martes,tarde,30,0,6.465,0.036811
+P30779,54,F,Medicina General,normal,Miércoles,tarde,15,0,5.151,0.056411
+P30780,11,M,Medicina General,normal,Jueves,mañana,30,0,1.695,0.072183
+P30781,87,M,Cardiología,normal,Lunes,mañana,15,0,4.939,0.056494
+P30782,32,M,Medicina General,normal,Martes,mañana,30,0,1.336,0.053526
+P30783,30,M,Medicina General,urgente,Martes,mañana,15,0,2.116,0.032195
+P30784,11,F,Medicina General,normal,Lunes,mañana,45,1,8.577,0.078389
+P30785,14,F,Medicina General,normal,Sábado,tarde,30,1,15.089,0.089657
+P30786,72,F,Medicina General,normal,Miércoles,tarde,15,0,4.88,0.055807
+P30787,22,F,Pediatría,normal,Viernes,tarde,15,0,3.256,0.053831
+P30788,56,F,Odontología,normal,Lunes,mañana,30,1,7.315,0.060139
+P30789,41,F,Ginecología,normal,Miércoles,mañana,15,0,5.382,0.055296
+P30790,12,F,Pediatría,normal,Miércoles,mañana,15,0,4.182,0.074784
+P30791,18,F,Medicina General,normal,Lunes,mañana,15,1,14.908,0.091548
+P30792,35,M,Medicina General,normal,Sábado,mañana,30,0,8.967,0.060644
+P30793,54,M,Psicología,normal,Lunes,tarde,15,1,1.376,0.055197
+P30794,71,F,Medicina General,normal,Martes,mañana,15,0,3.294,0.05252
+P30795,46,M,Ginecología,urgente,Miércoles,tarde,15,0,11.565,0.059991
+P30796,7,M,Psicología,normal,Jueves,mañana,15,0,5.828,0.073115
+P30797,14,M,Medicina General,normal,Viernes,tarde,30,0,5.013,0.054267
+P30798,69,M,Medicina General,normal,Lunes,tarde,15,0,3.521,0.053853
+P30799,41,M,Medicina General,normal,Jueves,tarde,15,0,2.498,0.052801
+P30800,17,M,Medicina General,normal,Lunes,tarde,15,0,12.115,0.078292
+P30801,14,F,Medicina General,normal,Lunes,mañana,15,0,4.26,0.074023
+P30802,4,M,Medicina General,normal,Jueves,mañana,30,0,2.193,0.072259
+P30803,77,M,Pediatría,normal,Jueves,tarde,30,0,1.606,0.051389
+P30804,62,M,Medicina General,normal,Viernes,mañana,15,0,4.59,0.05598
+P30805,24,F,Pediatría,normal,Sábado,tarde,30,0,9.425,0.064019
+P30806,20,F,Medicina General,normal,Jueves,mañana,30,0,9.2,0.05928
+P30807,40,F,Medicina General,normal,Sábado,mañana,30,1,6.149,0.0584
+P30808,34,M,Pediatría,normal,Jueves,tarde,30,0,1.157,0.050249
+P30809,10,F,Pediatría,normal,Sábado,mañana,15,0,6.605,0.073643
+P30810,22,F,Medicina General,normal,Lunes,tarde,30,0,8.289,0.057783
+P30811,21,M,Pediatría,normal,Viernes,tarde,15,0,1.521,0.051215
+P30812,56,F,Medicina General,normal,Miércoles,mañana,15,0,3.792,0.053731
+P30813,67,M,Medicina General,normal,Viernes,tarde,30,0,7.32,0.058666
+P30814,88,F,Odontología,urgente,Lunes,mañana,30,1,2.68,0.034993
+P30815,64,F,Psicología,normal,Lunes,mañana,30,0,3.171,0.051864
+P30816,68,M,Psicología,urgente,Lunes,mañana,15,0,6.208,0.033821
+P30817,23,F,Cardiología,normal,Miércoles,tarde,30,0,4.467,0.053683
+P30818,45,F,Odontología,normal,Jueves,mañana,30,0,5.74,0.05797
+P30819,50,F,Medicina General,normal,Miércoles,mañana,30,0,3.696,0.054301
+P30820,50,M,Ginecología,normal,Lunes,mañana,15,0,10.173,0.05534
+P30821,42,M,Ginecología,normal,Lunes,mañana,30,0,3.965,0.052486
+P30822,66,F,Medicina General,normal,Miércoles,mañana,30,0,0.34,0.05005
+P30823,60,F,Medicina General,normal,Viernes,tarde,30,0,7.004,0.058585
+P30824,23,F,Pediatría,normal,Jueves,mañana,15,0,15.106,0.069592
+P30825,62,M,Psicología,urgente,Lunes,mañana,30,0,2.223,0.031304
+P30826,28,F,Medicina General,normal,Sábado,tarde,30,0,1.078,0.054025
+P30827,50,F,Medicina General,normal,Martes,mañana,15,0,11.73,0.062237
+P30828,19,F,Medicina General,normal,Miércoles,tarde,15,0,0.289,0.049646
+P30829,38,F,Psicología,normal,Jueves,mañana,15,0,1.411,0.05065
+P30830,12,F,Pediatría,normal,Lunes,mañana,30,1,6.636,0.086003
+P30831,46,M,Odontología,normal,Lunes,mañana,30,0,4.536,0.059571
+P30832,81,F,Medicina General,normal,Martes,mañana,15,0,4.65,0.055887
+P30833,31,F,Cardiología,normal,Lunes,tarde,15,0,10.199,0.062538
+P30834,30,F,Medicina General,normal,Martes,tarde,15,0,22.824,0.074806
+P30835,8,F,Medicina General,normal,Jueves,mañana,30,0,14.563,0.079742
+P30836,62,M,Psicología,urgente,Miércoles,tarde,15,0,10.44,0.062236
+P30837,54,M,Pediatría,normal,Viernes,tarde,30,0,0.924,0.050387
+P30838,66,M,Pediatría,normal,Lunes,mañana,15,0,0.957,0.050482
+P30839,30,F,Medicina General,normal,Jueves,mañana,30,0,8.304,0.060022
+P30840,41,M,Pediatría,normal,Viernes,tarde,30,0,1.796,0.052287
+P30841,37,F,Psicología,normal,Sábado,tarde,30,0,13.619,0.071404
+P30842,15,M,Medicina General,normal,Lunes,tarde,15,0,6.676,0.05584
+P30843,79,F,Psicología,normal,Sábado,tarde,15,0,6.161,0.05651
+P30844,33,F,Medicina General,normal,Martes,mañana,15,0,14.11,0.06266
+P30845,38,M,Psicología,normal,Lunes,mañana,15,0,5.633,0.057417
+P30846,51,M,Medicina General,normal,Miércoles,mañana,15,0,5.008,0.054885
+P30847,51,F,Medicina General,normal,Viernes,tarde,30,0,10.594,0.063006
+P30848,32,M,Medicina General,normal,Sábado,tarde,15,0,9.929,0.059859
+P30849,8,F,Medicina General,normal,Jueves,mañana,30,1,3.854,0.073997
+P30850,18,F,Medicina General,normal,Viernes,mañana,30,0,10.938,0.061369
+P30851,6,M,Medicina General,normal,Jueves,tarde,15,0,2.097,0.072298
+P30852,62,M,Medicina General,normal,Lunes,tarde,30,0,0.975,0.052896
+P30853,19,M,Psicología,normal,Jueves,mañana,15,0,3.667,0.053177
+P30854,8,M,Medicina General,normal,Lunes,tarde,30,0,2.85,0.07288
+P30855,33,M,Medicina General,normal,Jueves,mañana,30,0,14.243,0.059338
+P30856,1,M,Medicina General,normal,Lunes,mañana,15,0,1.348,0.068496
+P30857,57,F,Medicina General,normal,Miércoles,mañana,30,0,3.786,0.053675
+P30858,37,F,Psicología,normal,Sábado,tarde,15,0,5.022,0.054919
+P30859,61,F,Psicología,normal,Jueves,mañana,15,0,3.031,0.053151
+P30860,80,F,Medicina General,normal,Viernes,mañana,15,0,10.297,0.059337
+P30861,48,F,Medicina General,normal,Viernes,tarde,30,0,4.785,0.052672
+P30862,51,M,Ginecología,normal,Viernes,tarde,15,0,6.967,0.056353
+P30863,72,F,Medicina General,normal,Miércoles,mañana,15,0,0.817,0.051351
+P30864,33,M,Odontología,normal,Martes,mañana,15,0,5.169,0.054108
+P30865,22,M,Medicina General,normal,Lunes,mañana,30,0,0.952,0.049471
+P30866,82,F,Medicina General,normal,Viernes,mañana,15,0,8.786,0.057606
+P30867,83,F,Medicina General,normal,Sábado,mañana,30,1,10.146,0.062329
+P30868,31,F,Cardiología,normal,Martes,mañana,30,0,4.35,0.052898
+P30869,4,M,Medicina General,normal,Jueves,tarde,15,0,2.193,0.072289
+P30870,69,M,Psicología,normal,Miércoles,mañana,15,0,0.598,0.050094
+P30871,8,M,Medicina General,normal,Jueves,mañana,15,0,1.875,0.072361
+P30872,68,F,Medicina General,normal,Sábado,tarde,30,1,2.082,0.056232
+P30873,59,F,Pediatría,normal,Miércoles,mañana,15,0,0.439,0.049561
+P30874,4,F,Medicina General,normal,Jueves,mañana,15,0,0.906,0.070339
+P30875,41,F,Ginecología,normal,Martes,mañana,30,0,3.291,0.051952
+P30876,49,F,Pediatría,normal,Lunes,mañana,30,0,0.923,0.047572
+P30877,5,M,Psicología,normal,Martes,tarde,15,1,0.513,0.076865
+P30878,58,M,Ginecología,normal,Viernes,mañana,15,0,3.543,0.054964
+P30879,44,M,Psicología,normal,Jueves,tarde,15,0,11.396,0.062051
+P30880,50,M,Psicología,normal,Lunes,mañana,30,0,2.98,0.052572
+P30881,31,F,Medicina General,normal,Viernes,tarde,15,0,3.449,0.053254
+P30882,82,M,Medicina General,normal,Viernes,mañana,15,0,3.711,0.054185
+P30883,55,F,Medicina General,normal,Miércoles,mañana,30,0,0.519,0.050196
+P30884,11,M,Odontología,urgente,Lunes,tarde,30,0,4.414,0.053621
+P30885,59,M,Medicina General,normal,Martes,tarde,30,0,11.554,0.090134
+P30886,37,M,Medicina General,normal,Miércoles,mañana,30,0,0.879,0.05083
+P30887,37,M,Odontología,normal,Miércoles,mañana,15,0,10.195,0.063226
+P30888,37,M,Medicina General,normal,Martes,tarde,30,0,15.519,0.068268
+P30889,36,M,Odontología,normal,Sábado,tarde,45,0,8.884,0.059628
+P30890,57,F,Medicina General,normal,Viernes,tarde,15,0,3.655,0.054369
+P30891,18,F,Medicina General,normal,Miércoles,tarde,15,0,0.884,0.051427
+P30892,39,F,Odontología,normal,Lunes,mañana,30,0,3.541,0.053458
+P30893,47,M,Medicina General,normal,Miércoles,mañana,15,0,1.209,0.053929
+P30894,45,M,Cardiología,normal,Sábado,tarde,45,0,0.817,0.050989
+P30895,81,M,Odontología,normal,Jueves,tarde,30,0,5.105,0.037013
+P30896,17,F,Medicina General,normal,Jueves,mañana,30,0,1.262,0.055973
+P30897,35,M,Medicina General,urgente,Sábado,tarde,15,0,5.227,0.03171
+P30898,63,M,Odontología,normal,Lunes,mañana,30,0,1.907,0.051779
+P30899,27,M,Odontología,normal,Jueves,mañana,15,0,6.491,0.075059
+P30900,31,M,Medicina General,normal,Jueves,mañana,15,0,9.412,0.059683
+P30901,61,M,Odontología,urgente,Lunes,mañana,30,0,2.019,0.032364
+P30902,57,F,Ginecología,normal,Viernes,tarde,30,1,4.31,0.059007
+P30903,77,M,Pediatría,normal,Jueves,tarde,15,0,1.104,0.051166
+P30904,82,F,Odontología,normal,Miércoles,mañana,30,1,7.639,0.063526
+P30905,53,M,Medicina General,normal,Viernes,tarde,30,0,4.618,0.053214
+P30906,54,M,Pediatría,normal,Viernes,mañana,15,0,3.105,0.04968
+P30907,85,F,Cardiología,normal,Martes,mañana,15,0,2.495,0.053068
+P30908,55,F,Medicina General,normal,Viernes,tarde,30,0,4.881,0.053578
+P30909,9,F,Medicina General,normal,Martes,mañana,30,0,4.157,0.078325
+P30910,24,F,Psicología,normal,Lunes,tarde,15,0,4.779,0.054376
+P30911,44,M,Odontología,normal,Miércoles,mañana,15,0,11.428,0.065563
+P30912,58,M,Pediatría,normal,Lunes,tarde,15,0,3.278,0.053167
+P30913,79,F,Medicina General,normal,Miércoles,mañana,30,0,3.165,0.051426
+P30914,45,F,Medicina General,normal,Miércoles,tarde,30,0,1.073,0.051892
+P30915,16,F,Psicología,normal,Jueves,mañana,30,0,10.248,0.061495
+P30916,6,F,Psicología,urgente,Lunes,mañana,30,0,0.59,0.050929
+P30917,39,F,Pediatría,normal,Viernes,mañana,15,0,2.432,0.053307
+P30918,46,M,Odontología,normal,Martes,mañana,15,0,1.774,0.031566
+P30919,40,F,Odontología,normal,Lunes,mañana,15,1,5.735,0.061919
+P30920,62,F,Medicina General,normal,Miércoles,tarde,15,0,1.504,0.051234
+P30921,64,F,Medicina General,normal,Martes,mañana,15,0,4.65,0.059091
+P30922,32,F,Odontología,urgente,Miércoles,mañana,15,0,9.714,0.063879
+P30923,61,M,Ginecología,normal,Sábado,tarde,30,0,7.294,0.058023
+P30924,74,F,Medicina General,normal,Viernes,tarde,15,1,3.621,0.059321
+P30925,41,M,Medicina General,normal,Miércoles,tarde,30,0,1.94,0.052156
+P30926,64,F,Pediatría,normal,Lunes,mañana,15,0,4.145,0.053437
+P30927,75,M,Ginecología,normal,Miércoles,tarde,30,0,0.87,0.055694
+P30928,12,M,Medicina General,normal,Lunes,mañana,30,0,2.704,0.073047
+P30929,17,M,Odontología,normal,Lunes,mañana,30,0,8.864,0.0602
+P30930,75,M,Medicina General,normal,Lunes,mañana,30,0,2.225,0.051329
+P30931,51,M,Medicina General,normal,Miércoles,tarde,15,0,1.309,0.051791
+P30932,65,M,Medicina General,normal,Sábado,tarde,15,0,4.847,0.054784
+P30933,20,F,Medicina General,normal,Jueves,tarde,15,0,2.754,0.052768
+P30934,91,F,Medicina General,normal,Martes,mañana,30,0,0.882,0.051749
+P30935,79,M,Odontología,normal,Jueves,tarde,30,0,3.504,0.052321
+P30936,16,F,Medicina General,normal,Martes,tarde,30,0,0.958,0.070657
+P30937,54,F,Ginecología,normal,Miércoles,mañana,30,0,3.012,0.054438
+P30938,31,F,Odontología,normal,Sábado,tarde,15,0,16.534,0.070336
+P30939,28,F,Medicina General,normal,Viernes,tarde,30,0,2.612,0.051606
+P30940,31,M,Medicina General,normal,Viernes,tarde,30,0,2.653,0.051144
+P30941,71,M,Psicología,urgente,Jueves,mañana,30,0,3.079,0.033438
+P30942,58,F,Medicina General,normal,Martes,mañana,15,0,1.088,0.051439
+P30943,83,M,Medicina General,normal,Jueves,tarde,30,0,2.983,0.053351
+P30944,52,F,Ginecología,normal,Miércoles,mañana,30,0,0.741,0.050617
+P30945,65,M,Medicina General,normal,Viernes,tarde,30,0,4.276,0.053771
+P30946,67,F,Medicina General,normal,Miércoles,mañana,15,0,1.769,0.052011
+P30947,27,F,Psicología,normal,Viernes,tarde,15,0,4.064,0.053663
+P30948,64,F,Medicina General,normal,Martes,mañana,30,0,1.644,0.054783
+P30949,37,M,Medicina General,normal,Miércoles,tarde,15,0,5.642,0.054643
+P30950,66,F,Medicina General,normal,Jueves,mañana,30,1,5.944,0.060231
+P30951,73,M,Psicología,urgente,Lunes,mañana,30,0,2.164,0.032627
+P30952,53,M,Psicología,normal,Lunes,tarde,15,0,9.657,0.060689
+P30953,40,M,Odontología,normal,Miércoles,tarde,15,0,11.357,0.063159
+P30954,22,M,Cardiología,normal,Martes,mañana,30,0,1.764,0.052424
+P30955,64,M,Cardiología,normal,Sábado,mañana,30,0,3.842,0.055701
+P30956,66,F,Medicina General,normal,Miércoles,mañana,15,0,6.68,0.056223
+P30957,71,F,Ginecología,normal,Sábado,mañana,15,0,11.059,0.060264
+P30958,52,F,Ginecología,normal,Lunes,tarde,30,0,2.442,0.052086
+P30959,30,F,Psicología,normal,Jueves,mañana,15,1,8.739,0.061498
+P30960,53,F,Ginecología,normal,Viernes,mañana,30,0,10.613,0.058263
+P30961,57,F,Psicología,normal,Sábado,mañana,15,0,5.945,0.056652
+P30962,13,F,Medicina General,normal,Jueves,mañana,30,0,12.102,0.079376
+P30963,0,M,Pediatría,normal,Viernes,tarde,15,0,1.421,0.050337
+P30964,26,F,Psicología,normal,Viernes,tarde,15,0,21.288,0.087816
+P30965,18,F,Odontología,normal,Lunes,mañana,15,0,7.854,0.057428
+P30966,12,F,Medicina General,normal,Jueves,tarde,15,0,3.922,0.053369
+P30967,44,M,Pediatría,normal,Viernes,tarde,30,0,1.602,0.049534
+P30968,50,F,Medicina General,normal,Miércoles,tarde,30,0,2.373,0.051803
+P30969,43,M,Psicología,normal,Sábado,mañana,15,0,18.694,0.071167
+P30970,18,F,Medicina General,normal,Lunes,mañana,15,0,10.076,0.080197
+P30971,58,F,Medicina General,normal,Sábado,tarde,15,0,2.317,0.052048
+P30972,73,M,Ginecología,normal,Jueves,mañana,30,0,3.212,0.052769
+P30973,34,M,Medicina General,normal,Jueves,mañana,15,0,13.54,0.06004
+P30974,9,M,Medicina General,normal,Jueves,tarde,15,0,12.885,0.078248
+P30975,73,M,Psicología,urgente,Sábado,mañana,15,0,1.007,0.03073
+P30976,10,M,Medicina General,normal,Miércoles,tarde,15,0,9.507,0.083125
+P30977,50,F,Ginecología,normal,Martes,mañana,30,0,0.867,0.050473
+P30978,81,F,Medicina General,normal,Viernes,mañana,30,1,21.836,0.070489
+P30979,74,F,Pediatría,normal,Miércoles,mañana,30,0,0.772,0.049415
+P30980,37,M,Cardiología,normal,Lunes,tarde,30,0,3.636,0.052091
+P30981,83,M,Medicina General,normal,Viernes,tarde,30,0,4.382,0.054372
+P30982,76,M,Psicología,normal,Jueves,mañana,15,0,0.932,0.051502
+P30983,60,F,Medicina General,normal,Jueves,mañana,15,0,6.855,0.056903
+P30984,2,F,Medicina General,normal,Lunes,tarde,30,0,1.813,0.073408
+P30985,6,F,Medicina General,normal,Sábado,tarde,15,0,6.971,0.073476
+P30986,51,M,Medicina General,normal,Viernes,tarde,15,0,4.699,0.052003
+P30987,54,F,Odontología,normal,Lunes,mañana,30,0,3.305,0.053519
+P30988,24,F,Medicina General,normal,Jueves,tarde,15,1,13.154,0.066044
+P30989,90,F,Pediatría,normal,Lunes,mañana,15,0,19.847,0.06601
+P30990,50,F,Psicología,normal,Viernes,mañana,15,0,0.581,0.049776
+P30991,26,F,Cardiología,normal,Miércoles,tarde,30,0,6.288,0.055078
+P30992,23,F,Medicina General,normal,Miércoles,mañana,15,0,5.422,0.073069
+P30993,13,F,Psicología,urgente,Lunes,tarde,30,0,3.967,0.052411
+P30994,85,F,Ginecología,normal,Lunes,tarde,30,0,5.049,0.055047
+P30995,8,F,Pediatría,urgente,Lunes,tarde,15,0,4.087,0.053685
+P30996,2,M,Medicina General,normal,Jueves,mañana,30,0,1.581,0.072062
+P30997,31,F,Psicología,normal,Lunes,tarde,15,0,8.826,0.059327
+P30998,7,M,Psicología,normal,Martes,tarde,30,1,3.938,0.076582
+P30999,0,F,Medicina General,normal,Jueves,mañana,30,0,4.891,0.075921
+P31000,59,M,Medicina General,normal,Viernes,tarde,15,0,4.224,0.056181
+P31001,79,F,Medicina General,normal,Viernes,mañana,15,1,7.798,0.060636
+P31002,46,M,Medicina General,normal,Martes,mañana,15,0,6.48,0.054248
+P31003,24,F,Pediatría,normal,Miércoles,tarde,15,0,1.814,0.065847
+P31004,32,F,Medicina General,normal,Viernes,mañana,30,0,17.953,0.069354
+P31005,75,F,Cardiología,normal,Lunes,mañana,30,0,2.195,0.051678
+P31006,35,F,Odontología,normal,Lunes,mañana,15,0,8.854,0.061389
+P31007,31,M,Ginecología,normal,Miércoles,mañana,15,0,9.941,0.063148
+P31008,73,M,Medicina General,normal,Lunes,mañana,30,0,5.964,0.054957
+P31009,13,F,Medicina General,normal,Jueves,mañana,15,0,3.952,0.07289
+P31010,51,F,Medicina General,normal,Sábado,mañana,15,0,6.404,0.056915
+P31011,79,F,Medicina General,normal,Viernes,mañana,30,0,13.774,0.06376
+P31012,27,F,Cardiología,normal,Jueves,mañana,15,0,1.154,0.054382
+P31013,15,F,Medicina General,normal,Martes,mañana,15,0,1.97,0.051287
+P31014,6,M,Medicina General,urgente,Martes,tarde,15,0,6.03,0.036835
+P31015,54,M,Psicología,normal,Viernes,tarde,15,0,0.346,0.050241
+P31016,51,F,Medicina General,normal,Jueves,mañana,30,0,4.258,0.053496
+P31017,23,M,Odontología,normal,Viernes,tarde,30,0,3.045,0.053672
+P31018,23,F,Medicina General,normal,Viernes,mañana,30,0,14.64,0.065708
+P31019,52,M,Medicina General,normal,Viernes,mañana,15,0,19.286,0.077481
+P31020,30,F,Odontología,normal,Lunes,mañana,15,0,8.379,0.062779
+P31021,12,F,Ginecología,normal,Jueves,tarde,30,1,0.862,0.075117
+P31022,22,M,Medicina General,normal,Sábado,mañana,15,0,23.791,0.075708
+P31023,4,F,Pediatría,normal,Miércoles,mañana,15,0,2.98,0.071984
+P31024,8,F,Psicología,normal,Miércoles,mañana,15,0,2.349,0.074331
+P31025,35,F,Ginecología,normal,Jueves,tarde,30,0,1.622,0.052182
+P31026,38,F,Odontología,normal,Lunes,mañana,15,0,3.01,0.051774
+P31027,38,F,Medicina General,normal,Viernes,tarde,30,0,3.006,0.053005
+P31028,52,M,Medicina General,normal,Miércoles,mañana,15,0,2.809,0.052046
+P31029,64,F,Medicina General,normal,Lunes,tarde,30,0,14.227,0.06779
+P31030,30,M,Medicina General,normal,Jueves,mañana,15,0,4.091,0.056196
+P31031,65,F,Ginecología,normal,Miércoles,mañana,15,0,9.923,0.061674
+P31032,47,M,Medicina General,normal,Martes,mañana,15,0,1.017,0.052105
+P31033,37,F,Pediatría,normal,Lunes,tarde,15,0,0.726,0.050333
+P31034,28,M,Pediatría,normal,Viernes,tarde,15,0,2.479,0.054508
+P31035,27,M,Medicina General,normal,Sábado,tarde,45,0,8.401,0.054356
+P31036,62,M,Medicina General,normal,Miércoles,tarde,15,0,1.902,0.053385
+P31037,62,M,Psicología,normal,Lunes,mañana,15,0,1.99,0.051825
+P31038,41,M,Medicina General,normal,Martes,noche,15,0,2.468,0.05208
+P31039,75,M,Odontología,normal,Martes,mañana,15,0,3.396,0.05242
+P31040,40,F,Medicina General,normal,Viernes,mañana,15,0,23.433,0.077235
+P31041,80,F,Medicina General,normal,Martes,mañana,15,0,2.571,0.051375
+P31042,11,M,Odontología,normal,Miércoles,mañana,15,0,9.08,0.062184
+P31043,61,F,Medicina General,normal,Miércoles,mañana,15,0,4.353,0.054231
+P31044,29,F,Medicina General,normal,Jueves,mañana,30,0,4.486,0.053442
+P31045,73,M,Medicina General,normal,Viernes,tarde,30,0,4.798,0.054953
+P31046,53,M,Medicina General,normal,Martes,mañana,15,0,2.426,0.052854
+P31047,45,M,Medicina General,normal,Miércoles,mañana,15,0,2.105,0.051709
+P31048,55,M,Psicología,urgente,Martes,mañana,15,0,2.989,0.033656
+P31049,13,M,Medicina General,normal,Martes,tarde,30,0,0.862,0.069876
+P31050,30,F,Medicina General,normal,Jueves,mañana,15,0,15.145,0.061868
+P31051,50,F,Medicina General,normal,Viernes,tarde,30,0,15.92,0.062225
+P31052,50,M,Ginecología,normal,Martes,mañana,30,0,4.623,0.054076
+P31053,43,F,Psicología,normal,Martes,mañana,15,0,2.14,0.05247
+P31054,60,F,Psicología,normal,Sábado,tarde,15,0,3.535,0.0554
+P31055,49,M,Psicología,normal,Sábado,tarde,15,0,7.851,0.05886
+P31056,2,M,Pediatría,normal,Viernes,tarde,15,0,5.014,0.053899
+P31057,37,M,Psicología,urgente,Lunes,tarde,15,0,9.716,0.0596
+P31058,79,F,Medicina General,normal,Sábado,mañana,30,0,4.612,0.055748
+P31059,58,M,Pediatría,normal,Sábado,mañana,30,0,2.439,0.051056
+P31060,53,M,Ginecología,normal,Viernes,mañana,30,0,6.967,0.055999
+P31061,18,M,Odontología,normal,Martes,mañana,15,0,9.904,0.060394
+P31062,46,M,Odontología,normal,Martes,mañana,15,0,4.474,0.053539
+P31063,61,F,Psicología,normal,Lunes,tarde,45,1,7.629,0.061261
+P31064,14,F,Medicina General,normal,Viernes,tarde,15,0,2.538,0.050838
+P31065,72,F,Ginecología,normal,Miércoles,tarde,15,0,8.819,0.070127
+P31066,66,F,Medicina General,normal,Martes,mañana,15,0,9.317,0.059346
+P31067,84,M,Psicología,urgente,Miércoles,tarde,30,0,12.74,0.045039
+P31068,59,F,Pediatría,normal,Martes,mañana,15,0,5.172,0.052374
+P31069,18,F,Psicología,normal,Viernes,mañana,15,0,2.875,0.072838
+P31070,55,M,Medicina General,normal,Viernes,tarde,30,0,3.139,0.052335
+P31071,57,F,Psicología,normal,Martes,tarde,30,0,1.629,0.050108
+P31072,63,F,Medicina General,normal,Viernes,tarde,30,0,1.774,0.051176
+P31073,59,M,Medicina General,normal,Viernes,tarde,30,0,2.502,0.053057
+P31074,61,F,Medicina General,normal,Sábado,mañana,15,0,4.715,0.052819
+P31075,56,M,Psicología,normal,Jueves,mañana,30,0,1.944,0.05123
+P31076,66,M,Odontología,normal,Lunes,tarde,30,0,4.787,0.05497
+P31077,39,M,Psicología,normal,Lunes,mañana,15,0,7.727,0.055555
+P31078,64,F,Medicina General,normal,Viernes,tarde,30,0,7.248,0.057346
+P31079,50,F,Medicina General,normal,Viernes,mañana,30,0,16.147,0.062611
+P31080,19,M,Medicina General,normal,Martes,tarde,30,0,9.447,0.058881
+P31081,34,F,Psicología,normal,Jueves,mañana,15,0,2.38,0.051621
+P31082,66,O,Medicina General,normal,Viernes,tarde,15,0,6.089,0.053513
+P31083,78,M,Psicología,normal,Jueves,mañana,30,0,3.206,0.052288
+P31084,72,F,Ginecología,normal,Martes,mañana,30,0,6.03,0.056282
+P31085,28,M,Psicología,normal,Jueves,mañana,15,0,4.231,0.054885
+P31086,62,F,Psicología,normal,Miércoles,mañana,30,0,0.665,0.0509
+P31087,59,F,Psicología,normal,Sábado,tarde,30,0,13.24,0.060912
+P31088,79,F,Psicología,normal,Miércoles,mañana,15,0,9.162,0.055162
+P31089,23,F,Medicina General,normal,Viernes,tarde,15,0,15.605,0.070257
+P31090,49,F,Medicina General,normal,Sábado,mañana,30,1,5.401,0.056384
+P31091,24,F,Odontología,normal,Jueves,mañana,15,0,1.508,0.071467
+P31092,17,M,Medicina General,normal,Martes,tarde,15,0,5.876,0.070883
+P31093,11,F,Medicina General,normal,Jueves,mañana,30,0,1.435,0.071411
+P31094,54,M,Medicina General,normal,Jueves,mañana,15,0,1.732,0.052468
+P31095,23,F,Odontología,normal,Jueves,mañana,30,0,2.501,0.071772
+P31096,63,M,Medicina General,normal,Jueves,mañana,30,0,11.41,0.061076
+P31097,71,F,Medicina General,normal,Miércoles,tarde,30,0,5.486,0.055746
+P31098,22,M,Odontología,urgente,Sábado,mañana,15,0,9.408,0.037848
+P31099,59,F,Ginecología,normal,Lunes,mañana,30,0,6.225,0.055239
+P31100,83,F,Psicología,normal,Lunes,mañana,15,0,2.562,0.051549
+P31101,29,F,Medicina General,normal,Viernes,tarde,30,0,5.078,0.052591
+P31102,4,F,Medicina General,normal,Miércoles,tarde,15,0,4.624,0.075623
+P31103,39,M,Odontología,normal,Martes,mañana,15,0,3.298,0.053177
+P31104,73,M,Medicina General,normal,Jueves,mañana,30,0,3.161,0.052035
+P31105,71,F,Odontología,normal,Lunes,mañana,15,1,5.952,0.060016
+P31106,4,M,Medicina General,normal,Lunes,mañana,30,1,4.876,0.080946
+P31107,79,F,Psicología,normal,Viernes,mañana,15,2,21.76,0.07433
+P31108,66,M,Pediatría,normal,Viernes,tarde,15,0,1.255,0.049869
+P31109,48,M,Psicología,normal,Lunes,mañana,15,0,0.824,0.050503
+P31110,36,F,Odontología,normal,Lunes,tarde,45,1,11.009,0.062248
+P31111,43,F,Odontología,normal,Lunes,mañana,30,1,3.826,0.06087
+P31112,20,F,Medicina General,normal,Viernes,tarde,15,0,4.171,0.052372
+P31113,19,M,Medicina General,normal,Martes,tarde,15,1,7.176,0.057201
+P31114,19,M,Ginecología,normal,Lunes,tarde,30,0,3.474,0.052846
+P31115,25,M,Odontología,normal,Sábado,mañana,45,0,3.834,0.053284
+P31116,57,F,Medicina General,normal,Viernes,mañana,15,0,13.767,0.059222
+P31117,54,F,Medicina General,normal,Viernes,mañana,30,1,1.89,0.05776
+P31118,86,M,Psicología,normal,Sábado,tarde,15,2,11.212,0.061118
+P31119,56,F,Ginecología,normal,Lunes,mañana,30,0,0.595,0.052746
+P31120,30,M,Medicina General,urgente,Sábado,tarde,30,0,16.933,0.068158
+P31121,64,F,Odontología,normal,Lunes,mañana,30,0,4.208,0.052309
+P31122,40,F,Cardiología,normal,Martes,mañana,15,0,6.379,0.060417
+P31123,76,M,Medicina General,normal,Viernes,tarde,15,0,5.119,0.056048
+P31124,52,F,Medicina General,normal,Viernes,mañana,15,0,6.633,0.056535
+P31125,69,F,Medicina General,normal,Lunes,mañana,30,1,2.637,0.058285
+P31126,34,M,Medicina General,normal,Jueves,mañana,15,0,2.373,0.052683
+P31127,61,F,Medicina General,normal,Viernes,mañana,15,1,15.479,0.07318
+P31128,73,F,Psicología,normal,Lunes,tarde,30,0,5.762,0.057092
+P31129,63,F,Ginecología,normal,Viernes,tarde,30,1,5.81,0.05654
+P31130,63,F,Ginecología,normal,Miércoles,mañana,15,0,2.997,0.05456
+P31131,70,F,Psicología,normal,Jueves,mañana,15,0,1.49,0.051401
+P31132,60,F,Psicología,normal,Miércoles,tarde,15,0,10.301,0.0611
+P31133,76,F,Medicina General,normal,Viernes,tarde,15,0,12.511,0.062688
+P31134,62,F,Medicina General,normal,Martes,mañana,15,0,3.597,0.052247
+P31135,67,M,Odontología,urgente,Martes,mañana,45,0,2.051,0.033198
+P31136,34,M,Medicina General,normal,Jueves,tarde,15,0,2.472,0.052141
+P31137,16,M,Medicina General,normal,Jueves,mañana,30,1,9.313,0.079499
+P31138,32,F,Medicina General,normal,Miércoles,tarde,15,0,1.029,0.050559
+P31139,32,F,Odontología,normal,Jueves,mañana,30,0,5.44,0.073584
+P31140,59,F,Odontología,normal,Lunes,mañana,30,0,1.768,0.05151
+P31141,11,M,Medicina General,normal,Martes,tarde,30,1,3.744,0.080102
+P31142,87,F,Medicina General,normal,Lunes,mañana,15,0,0.408,0.050488
+P31143,58,F,Pediatría,normal,Viernes,mañana,15,0,17.861,0.071099
+P31144,83,M,Medicina General,urgente,Jueves,tarde,15,0,1.58,0.052077
+P31145,75,M,Psicología,urgente,Martes,mañana,15,0,7.213,0.03482
+P31146,29,F,Psicología,normal,Martes,mañana,15,0,6.397,0.056327
+P31147,8,M,Pediatría,normal,Sábado,tarde,30,0,2.129,0.051202
+P31148,63,M,Odontología,urgente,Jueves,mañana,30,0,1.249,0.031694
+P31149,67,F,Medicina General,normal,Miércoles,tarde,15,0,0.513,0.048846
+P31150,74,M,Psicología,normal,Lunes,mañana,15,0,0.206,0.050118
+P31151,30,F,Medicina General,normal,Viernes,mañana,15,0,5.337,0.055432
+P31152,62,M,Pediatría,normal,Viernes,mañana,15,0,1.597,0.053507
+P31153,5,M,Medicina General,normal,Viernes,mañana,15,0,5.164,0.073228
+P31154,24,M,Psicología,urgente,Viernes,mañana,15,0,6.249,0.053779
+P31155,16,F,Medicina General,normal,Viernes,mañana,15,0,6.88,0.078076
+P31156,34,F,Medicina General,normal,Jueves,mañana,30,0,0.517,0.050887
+P31157,6,F,Medicina General,normal,Jueves,mañana,30,0,1.063,0.070383
+P31158,47,F,Medicina General,normal,Jueves,mañana,15,0,1.746,0.052601
+P31159,65,F,Medicina General,normal,Miércoles,mañana,15,0,5.599,0.057202
+P31160,29,M,Psicología,normal,Martes,tarde,15,0,9.052,0.058128
+P31161,45,F,Medicina General,normal,Jueves,mañana,15,0,6.026,0.058194
+P31162,22,F,Psicología,normal,Lunes,mañana,15,1,0.692,0.055935
+P31163,60,M,Psicología,normal,Lunes,mañana,15,0,2.176,0.05261
+P31164,59,F,Medicina General,normal,Miércoles,tarde,30,0,4.265,0.054491
+P31165,28,F,Medicina General,normal,Miércoles,tarde,30,0,5.562,0.055543
+P31166,66,F,Medicina General,normal,Martes,mañana,15,0,0.029,0.049715
+P31167,45,M,Medicina General,normal,Jueves,mañana,30,0,14.109,0.067011
+P31168,55,M,Medicina General,normal,Miércoles,tarde,15,0,4.452,0.051405
+P31169,25,F,Medicina General,normal,Miércoles,tarde,30,0,1.349,0.051933
+P31170,39,F,Medicina General,normal,Miércoles,tarde,15,0,2.23,0.050603
+P31171,32,F,Medicina General,normal,Jueves,mañana,15,0,8.364,0.057989
+P31172,59,F,Psicología,normal,Sábado,mañana,15,0,6.918,0.057314
+P31173,39,M,Odontología,normal,Martes,mañana,15,0,1.756,0.055769
+P31174,53,F,Psicología,normal,Lunes,mañana,30,0,1.725,0.050534
+P31175,31,M,Ginecología,normal,Viernes,mañana,15,0,15.745,0.069558
+P31176,41,F,Medicina General,normal,Lunes,mañana,15,0,7.35,0.05613
+P31177,7,M,Psicología,normal,Lunes,mañana,30,0,4.967,0.0737
+P31178,34,M,Medicina General,normal,Martes,mañana,30,0,2.365,0.051832
+P31179,54,M,Psicología,normal,Viernes,tarde,30,0,6.823,0.057024
+P31180,58,M,Medicina General,normal,Martes,mañana,30,1,11.279,0.065147
+P31181,59,M,Medicina General,normal,Jueves,mañana,15,0,8.599,0.059861
+P31182,66,F,Odontología,normal,Lunes,mañana,30,0,3.655,0.053405
+P31183,37,F,Psicología,normal,Sábado,tarde,15,0,13.563,0.063997
+P31184,2,M,Medicina General,normal,Jueves,mañana,15,0,1.338,0.070653
+P31185,39,F,Medicina General,normal,Miércoles,mañana,30,1,6.156,0.055557
+P31186,70,F,Medicina General,normal,Miércoles,tarde,15,0,1.041,0.05116
+P31187,36,F,Odontología,normal,Sábado,tarde,30,0,11.091,0.057715
+P31188,54,F,Cardiología,normal,Miércoles,mañana,30,1,2.376,0.052923
+P31189,69,F,Psicología,normal,Lunes,tarde,15,0,0.774,0.050521
+P31190,50,M,Psicología,normal,Lunes,mañana,15,0,4.009,0.053528
+P31191,75,M,Ginecología,normal,Sábado,tarde,30,0,2.854,0.053474
+P31192,12,M,Medicina General,normal,Viernes,tarde,15,0,4.924,0.053949
+P31193,40,F,Medicina General,normal,Miércoles,tarde,15,0,3.044,0.053729
+P31194,53,M,Odontología,normal,Lunes,mañana,30,0,1.217,0.051473
+P31195,34,M,Medicina General,normal,Jueves,tarde,15,0,2.346,0.052617
+P31196,40,M,Ginecología,normal,Sábado,mañana,15,0,7.854,0.056742
+P31197,61,F,Psicología,normal,Sábado,mañana,30,0,9.272,0.060319
+P31198,33,M,Medicina General,normal,Martes,mañana,15,0,5.296,0.056357
+P31199,21,M,Pediatría,normal,Sábado,mañana,15,0,20.451,0.066758
+P31200,18,M,Medicina General,normal,Martes,mañana,15,0,1.209,0.071198
+P31201,43,M,Medicina General,normal,Martes,mañana,30,0,6.386,0.061554
+P31202,16,F,Medicina General,normal,Lunes,mañana,30,0,9.292,0.078422
+P31203,46,M,Pediatría,normal,Sábado,mañana,15,0,31.627,0.075499
+P31204,8,F,Pediatría,normal,Lunes,tarde,15,0,7.623,0.078922
+P31205,48,M,Psicología,normal,Martes,tarde,30,0,9.506,0.058621
+P31206,55,M,Medicina General,normal,Viernes,tarde,15,0,19.817,0.073478
+P31207,84,M,Psicología,urgente,Viernes,mañana,15,0,7.653,0.041744
+P31208,56,M,Psicología,normal,Miércoles,mañana,15,0,1.177,0.050531
+P31209,1,M,Medicina General,normal,Sábado,mañana,15,0,4.074,0.07299
+P31210,75,M,Medicina General,normal,Lunes,tarde,30,1,5.667,0.056296
+P31211,65,M,Medicina General,normal,Sábado,mañana,45,0,8.34,0.058394
+P31212,39,M,Medicina General,normal,Martes,noche,30,0,3.838,0.054434
+P31213,82,F,Psicología,normal,Miércoles,mañana,15,0,9.64,0.06201
+P31214,25,F,Medicina General,normal,Jueves,mañana,15,0,3.38,0.053532
+P31215,29,F,Cardiología,normal,Miércoles,mañana,15,0,5.705,0.053332
+P31216,4,M,Medicina General,normal,Viernes,tarde,30,0,3.628,0.070735
+P31217,57,F,Medicina General,normal,Lunes,tarde,15,0,6.467,0.054648
+P31218,26,M,Medicina General,normal,Lunes,tarde,15,0,5.15,0.055099
+P31219,29,M,Odontología,urgente,Lunes,mañana,30,0,1.115,0.032005
+P31220,8,F,Medicina General,normal,Jueves,mañana,30,0,1.572,0.06901
+P31221,59,F,Cardiología,normal,Lunes,mañana,30,0,1.983,0.051793
+P31222,48,M,Pediatría,normal,Jueves,mañana,15,0,3.61,0.052593
+P31223,42,F,Ginecología,normal,Jueves,mañana,30,1,0.501,0.054314
+P31224,47,F,Medicina General,normal,Viernes,tarde,15,0,5.279,0.053183
+P31225,8,F,Medicina General,normal,Viernes,mañana,30,0,10.674,0.076601
+P31226,16,F,Medicina General,normal,Jueves,tarde,15,0,2.573,0.053231
+P31227,56,M,Psicología,normal,Martes,tarde,30,1,6.493,0.056484
+P31228,19,F,Medicina General,normal,Lunes,tarde,15,1,11.496,0.078203
+P31229,11,M,Medicina General,normal,Jueves,mañana,30,1,21.001,0.087625
+P31230,4,M,Medicina General,normal,Jueves,mañana,30,1,5.424,0.081502
+P31231,4,F,Medicina General,normal,Jueves,mañana,15,0,1.735,0.071558
+P31232,75,F,Medicina General,normal,Viernes,mañana,15,0,8.966,0.058188
+P31233,55,F,Ginecología,normal,Lunes,tarde,30,0,3.429,0.053835
+P31234,33,F,Ginecología,normal,Lunes,tarde,15,0,3.769,0.054341
+P31235,8,M,Medicina General,normal,Viernes,tarde,15,0,4.537,0.07652
+P31236,66,F,Pediatría,normal,Miércoles,mañana,15,0,0.99,0.049633
+P31237,50,F,Odontología,normal,Lunes,tarde,30,0,1.663,0.052332
+P31238,31,M,Psicología,normal,Viernes,tarde,15,0,2.639,0.052691
+P31239,30,M,Pediatría,normal,Sábado,mañana,30,0,2.053,0.050028
+P31240,56,M,Psicología,normal,Sábado,tarde,15,0,11.602,0.06136
+P31241,44,F,Odontología,normal,Martes,mañana,30,0,1.251,0.051886
+P31242,40,M,Medicina General,normal,Lunes,tarde,30,0,3.171,0.052498
+P31243,56,M,Medicina General,normal,Lunes,tarde,30,0,1.795,0.050231
+P31244,28,F,Pediatría,normal,Sábado,mañana,15,1,20.632,0.067428
+P31245,22,M,Medicina General,normal,Miércoles,mañana,15,0,2.333,0.052115
+P31246,29,M,Medicina General,normal,Jueves,tarde,30,0,1.228,0.051457
+P31247,8,F,Medicina General,normal,Viernes,mañana,15,0,24.245,0.08712
+P31248,8,M,Odontología,urgente,Miércoles,tarde,15,0,8.472,0.055817
+P31249,36,M,Pediatría,normal,Viernes,mañana,15,0,1.426,0.052449
+P31250,10,M,Medicina General,normal,Sábado,mañana,30,0,1.647,0.067429
+P31251,8,M,Odontología,normal,Lunes,mañana,15,0,3.004,0.074164
+P31252,14,F,Cardiología,normal,Miércoles,mañana,30,0,3.889,0.075312
+P31253,4,M,Medicina General,normal,Miércoles,mañana,30,0,9.669,0.076846
+P31254,15,M,Medicina General,normal,Viernes,tarde,30,0,2.363,0.072674
+P31255,90,M,Psicología,urgente,Lunes,mañana,30,0,1.478,0.051426
+P31256,57,F,Psicología,normal,Martes,mañana,15,0,1.167,0.031344
+P31257,42,F,Medicina General,normal,Lunes,tarde,30,0,5.392,0.055382
+P31258,63,F,Medicina General,normal,Jueves,mañana,30,0,0.0,0.048976
+P31259,12,F,Medicina General,normal,Jueves,mañana,15,0,3.365,0.074935
+P31260,23,F,Ginecología,urgente,Lunes,tarde,30,0,3.719,0.034148
+P31261,68,F,Medicina General,normal,Martes,mañana,15,0,1.55,0.052028
+P31262,28,M,Medicina General,normal,Miércoles,tarde,15,0,11.566,0.064454
+P31263,60,M,Psicología,normal,Sábado,mañana,15,0,2.903,0.052055
+P31264,34,F,Medicina General,normal,Miércoles,tarde,15,0,3.112,0.05297
+P31265,46,M,Medicina General,normal,Viernes,tarde,30,0,3.995,0.054832
+P31266,19,M,Medicina General,normal,Sábado,tarde,30,0,1.303,0.051274
+P31267,11,M,Medicina General,normal,Lunes,mañana,30,1,9.26,0.085276
+P31268,79,F,Medicina General,normal,Viernes,tarde,15,0,13.4,0.064476
+P31269,31,F,Psicología,normal,Jueves,mañana,15,0,0.375,0.050433
+P31270,12,M,Medicina General,normal,Sábado,tarde,15,0,2.76,0.07309
+P31271,54,F,Odontología,normal,Miércoles,mañana,15,0,9.577,0.055419
+P31272,19,M,Medicina General,normal,Lunes,mañana,30,0,10.759,0.076592
+P31273,79,F,Psicología,urgente,Viernes,mañana,30,0,4.209,0.056518
+P31274,82,F,Psicología,normal,Lunes,tarde,15,0,4.76,0.055499
+P31275,63,M,Psicología,normal,Lunes,tarde,15,0,2.191,0.05252
+P31276,7,M,Ginecología,normal,Jueves,tarde,30,0,6.056,0.059603
+P31277,52,F,Cardiología,normal,Lunes,mañana,30,0,1.935,0.052243
+P31278,3,F,Medicina General,normal,Lunes,mañana,15,0,13.865,0.080232
+P31279,64,F,Psicología,normal,Miércoles,mañana,30,0,3.13,0.053805
+P31280,61,F,Pediatría,normal,Lunes,mañana,30,0,1.355,0.050352
+P31281,37,M,Medicina General,normal,Miércoles,tarde,15,0,0.0,0.049822
+P31282,21,M,Odontología,normal,Viernes,tarde,30,0,4.168,0.054139
+P31283,3,F,Psicología,normal,Lunes,tarde,30,0,3.169,0.072994
+P31284,40,F,Cardiología,normal,Martes,mañana,15,0,2.256,0.052183
+P31285,24,M,Cardiología,normal,Miércoles,mañana,30,0,4.437,0.05403
+P31286,18,M,Medicina General,urgente,Lunes,tarde,15,0,9.385,0.041157
+P31287,80,M,Pediatría,normal,Martes,mañana,15,0,8.16,0.054741
+P31288,49,F,Medicina General,normal,Viernes,tarde,30,0,1.999,0.052703
+P31289,36,M,Medicina General,normal,Jueves,mañana,30,0,8.962,0.060323
+P31290,37,M,Pediatría,urgente,Viernes,tarde,30,0,1.578,0.050694
+P31291,49,F,Medicina General,normal,Martes,mañana,30,0,2.085,0.049965
+P31292,34,M,Odontología,normal,Miércoles,tarde,15,0,12.212,0.065255
+P31293,71,M,Medicina General,normal,Sábado,tarde,15,0,2.766,0.052922
+P31294,61,M,Medicina General,normal,Viernes,tarde,15,0,4.754,0.05503
+P31295,33,M,Pediatría,normal,Viernes,tarde,15,0,1.564,0.05095
+P31296,63,M,Medicina General,normal,Viernes,tarde,30,0,3.896,0.052393
+P31297,12,F,Medicina General,normal,Martes,tarde,15,0,3.906,0.076398
+P31298,29,F,Medicina General,normal,Jueves,mañana,15,0,16.572,0.074033
+P31299,26,M,Odontología,normal,Miércoles,mañana,15,0,6.323,0.055099
+P31300,20,M,Psicología,normal,Sábado,mañana,15,0,1.167,0.051391
+P31301,5,M,Medicina General,normal,Viernes,mañana,15,0,1.969,0.071929
+P31302,52,M,Psicología,normal,Lunes,mañana,30,0,0.565,0.049835
+P31303,25,M,Odontología,normal,Viernes,mañana,15,0,2.772,0.052684
+P31304,29,F,Odontología,normal,Lunes,mañana,15,0,8.849,0.059965
+P31305,58,M,Odontología,normal,Lunes,mañana,15,0,3.395,0.05289
+P31306,32,M,Medicina General,normal,Martes,mañana,15,0,4.81,0.055816
+P31307,16,F,Medicina General,normal,Jueves,tarde,30,0,1.358,0.050582
+P31308,31,F,Medicina General,normal,Viernes,tarde,15,0,2.468,0.0551
+P31309,22,M,Odontología,normal,Jueves,mañana,30,0,2.167,0.07253
+P31310,78,F,Pediatría,normal,Viernes,tarde,30,0,1.394,0.050308
+P31311,1,F,Pediatría,normal,Sábado,mañana,15,0,7.047,0.076464
+P31312,24,M,Psicología,normal,Jueves,mañana,15,0,0.361,0.050724
+P31313,38,F,Medicina General,normal,Miércoles,mañana,15,0,2.16,0.052066
+P31314,51,F,Pediatría,normal,Jueves,mañana,15,0,5.493,0.055609
+P31315,72,M,Odontología,normal,Martes,noche,15,0,23.106,0.069781
+P31316,85,F,Medicina General,normal,Viernes,mañana,15,0,21.583,0.049617
+P31317,18,M,Medicina General,normal,Viernes,tarde,30,0,2.801,0.052029
+P31318,85,O,Psicología,normal,Lunes,mañana,15,1,4.67,0.036712
+P31319,60,M,Medicina General,normal,Sábado,mañana,15,0,3.174,0.053424
+P31320,10,M,Medicina General,normal,Viernes,tarde,15,0,4.104,0.051949
+P31321,71,M,Medicina General,normal,Lunes,tarde,15,0,9.723,0.060233
+P31322,85,M,Odontología,normal,Sábado,tarde,30,0,8.162,0.058738
+P31323,54,M,Medicina General,urgente,Lunes,mañana,15,0,0.985,0.02996
+P31324,50,F,Medicina General,normal,Lunes,tarde,30,0,5.68,0.056936
+P31325,31,F,Medicina General,normal,Miércoles,tarde,15,0,5.75,0.054729
+P31326,29,F,Medicina General,normal,Jueves,tarde,30,0,2.386,0.052116
+P31327,54,M,Odontología,urgente,Jueves,mañana,30,0,2.308,0.035196
+P31328,82,M,Medicina General,normal,Martes,mañana,15,0,3.698,0.05357
+P31329,53,F,Odontología,urgente,Jueves,mañana,45,0,14.259,0.043389
+P31330,88,M,Psicología,normal,Miércoles,tarde,30,0,11.729,0.064965
+P31331,62,F,Ginecología,normal,Lunes,mañana,30,0,5.733,0.055795
+P31332,69,F,Pediatría,normal,Lunes,mañana,15,0,1.075,0.052094
+P31333,48,F,Medicina General,normal,Martes,mañana,30,0,8.242,0.062023
+P31334,6,M,Odontología,normal,Martes,mañana,30,0,1.752,0.072255
+P31335,19,M,Odontología,normal,Martes,mañana,15,0,6.713,0.055455
+P31336,47,F,Cardiología,normal,Martes,mañana,30,0,3.146,0.052967
+P31337,38,F,Odontología,normal,Martes,mañana,15,0,9.663,0.060509
+P31338,82,M,Medicina General,normal,Martes,mañana,15,0,1.631,0.051252
+P31339,1,F,Psicología,normal,Sábado,mañana,15,0,3.733,0.073304
+P31340,23,F,Medicina General,normal,Martes,tarde,15,0,2.441,0.071849
+P31341,66,F,Medicina General,normal,Miércoles,tarde,15,0,4.529,0.055952
+P31342,85,M,Medicina General,normal,Jueves,mañana,15,0,3.647,0.051865
+P31343,33,F,Psicología,normal,Miércoles,tarde,30,0,12.899,0.067419
+P31344,70,M,Odontología,normal,Sábado,tarde,30,1,4.556,0.059399
+P31345,47,M,Medicina General,normal,Viernes,tarde,15,0,2.612,0.053528
+P31346,13,F,Psicología,normal,Lunes,tarde,15,0,3.421,0.054507
+P31347,40,M,Psicología,normal,Lunes,mañana,30,0,1.155,0.05058
+P31348,66,F,Psicología,urgente,Lunes,mañana,30,0,3.079,0.034382
+P31349,6,F,Medicina General,normal,Jueves,mañana,30,0,15.068,0.086946
+P31350,28,F,Odontología,normal,Miércoles,mañana,30,0,0.557,0.053218
+P31351,20,M,Medicina General,normal,Jueves,tarde,15,0,15.47,0.095634
+P31352,58,F,Cardiología,normal,Martes,mañana,15,0,5.488,0.055421
+P31353,28,M,Medicina General,normal,Viernes,tarde,30,0,20.196,0.07224
+P31354,83,F,Psicología,normal,Jueves,mañana,15,0,1.624,0.051694
+P31355,30,M,Psicología,normal,Lunes,mañana,15,0,7.52,0.059582
+P31356,90,F,Medicina General,normal,Martes,mañana,15,0,9.092,0.054838
+P31357,65,M,Medicina General,normal,Viernes,tarde,15,0,1.577,0.050986
+P31358,51,M,Odontología,normal,Martes,mañana,15,0,3.064,0.052306
+P31359,13,M,Odontología,normal,Miércoles,mañana,15,0,6.152,0.078057
+P31360,60,F,Medicina General,normal,Miércoles,tarde,15,0,1.612,0.051863
+P31361,58,M,Pediatría,normal,Lunes,mañana,15,0,5.852,0.055081
+P31362,12,F,Cardiología,normal,Miércoles,mañana,30,0,4.907,0.055195
+P31363,59,M,Medicina General,normal,Miércoles,tarde,30,0,1.228,0.050989
+P31364,28,M,Ginecología,normal,Jueves,mañana,30,0,10.582,0.061329
+P31365,2,M,Medicina General,normal,Jueves,mañana,15,0,5.507,0.07598
+P31366,47,M,Medicina General,normal,Jueves,mañana,15,0,5.997,0.053935
+P31367,15,M,Psicología,normal,Miércoles,mañana,15,0,1.549,0.069217
+P31368,38,M,Odontología,normal,Jueves,tarde,15,0,1.457,0.051744
+P31369,84,M,Medicina General,normal,Jueves,tarde,30,0,3.065,0.052751
+P31370,41,M,Medicina General,normal,Jueves,mañana,15,0,25.709,0.074174
+P31371,90,F,Medicina General,normal,Miércoles,mañana,30,0,3.969,0.054593
+P31372,26,M,Medicina General,normal,Jueves,mañana,15,0,3.349,0.053323
+P31373,60,F,Medicina General,normal,Martes,mañana,15,0,1.802,0.051624
+P31374,44,F,Medicina General,normal,Viernes,tarde,15,0,9.924,0.058467
+P31375,77,M,Psicología,urgente,Jueves,mañana,15,0,4.825,0.03831
+P31376,37,M,Medicina General,normal,Lunes,tarde,15,0,5.446,0.05578
+P31377,5,F,Psicología,normal,Lunes,mañana,30,0,7.833,0.074138
+P31378,63,M,Odontología,normal,Viernes,mañana,15,0,1.704,0.05516
+P31379,4,F,Ginecología,normal,Sábado,tarde,15,0,4.28,0.077184
+P31380,21,F,Medicina General,normal,Miércoles,mañana,15,0,8.573,0.054531
+P31381,22,F,Psicología,normal,Jueves,tarde,30,1,2.888,0.074987
+P31382,21,M,Medicina General,normal,Martes,tarde,30,0,1.755,0.056758
+P31383,21,F,Medicina General,normal,Miércoles,tarde,30,0,1.116,0.051511
+P31384,14,M,Psicología,normal,Jueves,tarde,15,0,10.11,0.061016
+P31385,54,F,Psicología,urgente,Lunes,mañana,30,1,8.496,0.038111
+P31386,78,F,Cardiología,normal,Martes,mañana,15,0,9.778,0.060392
+P31387,57,M,Psicología,normal,Viernes,noche,30,0,0.0,0.048537
+P31388,22,F,Medicina General,normal,Viernes,tarde,15,0,4.734,0.054076
+P31389,25,F,Psicología,normal,Lunes,tarde,30,0,1.646,0.051615
+P31390,84,M,Medicina General,normal,Sábado,mañana,30,0,6.088,0.056385
+P31391,81,F,Psicología,normal,Lunes,mañana,30,1,2.982,0.057976
+P31392,11,F,Medicina General,normal,Jueves,mañana,30,0,1.466,0.072022
+P31393,79,M,Medicina General,normal,Viernes,mañana,15,0,6.683,0.057655
+P31394,62,M,Pediatría,normal,Viernes,tarde,15,0,1.324,0.051096
+P31395,29,F,Odontología,normal,Jueves,mañana,30,0,3.918,0.074299
+P31396,56,F,Medicina General,normal,Miércoles,tarde,30,0,3.605,0.053185
+P31397,69,F,Medicina General,normal,Sábado,tarde,30,0,1.212,0.051266
+P31398,63,F,Psicología,normal,Jueves,noche,30,1,12.126,0.066727
+P31399,13,M,Psicología,normal,Sábado,tarde,30,0,11.828,0.079073
+P31400,39,F,Medicina General,normal,Sábado,mañana,15,0,11.835,0.057028
+P31401,79,F,Medicina General,normal,Martes,mañana,15,0,8.597,0.060745
+P31402,22,M,Cardiología,normal,Jueves,mañana,15,0,4.942,0.057527
+P31403,23,M,Medicina General,normal,Viernes,tarde,15,0,5.417,0.055912
+P31404,9,F,Psicología,normal,Sábado,mañana,15,0,6.332,0.073611
+P31405,83,M,Medicina General,normal,Martes,mañana,15,0,4.971,0.053594
+P31406,25,F,Pediatría,normal,Jueves,mañana,15,0,6.744,0.057137
+P31407,12,M,Medicina General,normal,Viernes,tarde,15,0,4.317,0.075644
+P31408,50,M,Pediatría,normal,Viernes,mañana,15,0,1.128,0.049386
+P31409,58,F,Psicología,normal,Lunes,mañana,30,0,3.257,0.057468
+P31410,89,F,Medicina General,normal,Miércoles,mañana,30,0,4.942,0.052854
+P31411,11,F,Medicina General,normal,Jueves,mañana,30,1,8.735,0.075534
+P31412,22,F,Odontología,normal,Jueves,mañana,15,0,3.656,0.059125
+P31413,85,M,Medicina General,normal,Jueves,mañana,15,0,1.517,0.051994
+P31414,20,M,Psicología,normal,Lunes,tarde,30,0,1.621,0.050857
+P31415,14,M,Psicología,normal,Sábado,mañana,30,0,6.748,0.057537
+P31416,11,F,Psicología,normal,Sábado,mañana,30,0,0.886,0.05081
+P31417,31,M,Medicina General,normal,Lunes,tarde,30,0,1.15,0.054367
+P31418,24,M,Medicina General,normal,Jueves,mañana,15,0,2.988,0.052524
+P31419,10,M,Psicología,normal,Martes,tarde,15,0,6.339,0.074525
+P31420,39,F,Pediatría,normal,Lunes,mañana,15,0,14.492,0.060879
+P31421,40,F,Odontología,normal,Jueves,mañana,30,0,1.601,0.051949
+P31422,36,F,Odontología,normal,Sábado,tarde,45,0,9.552,0.057642
+P31423,58,M,Odontología,normal,Lunes,mañana,15,0,3.113,0.053463
+P31424,20,M,Ginecología,normal,Miércoles,tarde,15,0,6.862,0.056328
+P31425,31,M,Medicina General,normal,Martes,mañana,15,0,4.678,0.054323
+P31426,56,F,Psicología,normal,Miércoles,mañana,15,0,0.526,0.050786
+P31427,20,F,Psicología,normal,Jueves,tarde,30,0,0.197,0.048302
+P31428,11,M,Medicina General,normal,Jueves,mañana,15,0,3.914,0.07347
+P31429,34,M,Medicina General,normal,Jueves,mañana,30,0,21.582,0.059643
+P31430,22,M,Odontología,normal,Martes,mañana,30,0,1.443,0.051245
+P31431,18,F,Medicina General,normal,Jueves,mañana,15,1,0.879,0.06103
+P31432,12,M,Medicina General,normal,Martes,tarde,15,0,10.141,0.061245
+P31433,76,F,Medicina General,normal,Martes,mañana,30,0,3.267,0.052701
+P31434,32,F,Medicina General,normal,Jueves,mañana,15,0,6.402,0.060327
+P31435,38,F,Odontología,normal,Lunes,mañana,15,0,7.821,0.059143
+P31436,82,F,Odontología,normal,Lunes,mañana,30,0,0.916,0.051423
+P31437,84,F,Pediatría,normal,Viernes,mañana,30,0,9.173,0.059327
+P31438,9,M,Medicina General,normal,Miércoles,noche,15,0,6.03,0.077652
+P31439,35,F,Odontología,normal,Lunes,mañana,45,0,13.038,0.064454
+P31440,68,M,Medicina General,normal,Viernes,tarde,15,0,0.195,0.049013
+P31441,50,M,Medicina General,normal,Martes,mañana,30,0,8.539,0.057897
+P31442,18,M,Medicina General,normal,Lunes,tarde,30,0,0.887,0.051117
+P31443,72,M,Pediatría,normal,Viernes,tarde,30,0,4.459,0.053398
+P31444,32,F,Ginecología,normal,Miércoles,mañana,15,0,1.261,0.05137
+P31445,0,F,Psicología,normal,Lunes,tarde,15,0,4.942,0.075026
+P31446,27,M,Medicina General,normal,Viernes,tarde,30,0,5.372,0.054937
+P31447,48,F,Medicina General,normal,Miércoles,tarde,30,0,4.852,0.052673
+P31448,41,M,Ginecología,normal,Miércoles,mañana,30,1,3.615,0.065958
+P31449,65,F,Medicina General,normal,Martes,mañana,15,0,1.78,0.052226
+P31450,79,M,Cardiología,normal,Viernes,tarde,30,0,0.957,0.050782
+P31451,40,F,Medicina General,normal,Jueves,mañana,30,0,6.281,0.06203
+P31452,13,M,Medicina General,normal,Miércoles,mañana,15,0,1.116,0.070374
+P31453,18,F,Ginecología,normal,Lunes,mañana,45,0,6.598,0.07726
+P31454,43,F,Ginecología,normal,Jueves,mañana,30,1,3.072,0.053558
+P31455,63,F,Medicina General,normal,Viernes,tarde,30,0,2.687,0.052636
+P31456,56,M,Medicina General,normal,Sábado,mañana,15,0,5.544,0.056357
+P31457,72,F,Psicología,normal,Lunes,tarde,15,0,8.796,0.058301
+P31458,25,F,Pediatría,normal,Jueves,tarde,15,0,4.157,0.054413
+P31459,13,F,Medicina General,normal,Jueves,mañana,30,0,5.418,0.074421
+P31460,45,M,Medicina General,normal,Miércoles,tarde,15,0,1.918,0.051522
+P31461,33,M,Odontología,normal,Lunes,mañana,15,0,4.286,0.059504
+P31462,31,F,Medicina General,normal,Miércoles,mañana,30,0,7.12,0.054913
+P31463,55,M,Psicología,normal,Jueves,mañana,30,0,2.633,0.051609
+P31464,11,F,Medicina General,normal,Sábado,tarde,15,0,1.678,0.073955
+P31465,69,F,Psicología,normal,Jueves,mañana,30,0,2.675,0.052304
+P31466,25,F,Cardiología,normal,Lunes,tarde,30,0,1.327,0.070599
+P31467,85,F,Medicina General,normal,Viernes,mañana,30,0,21.925,0.070316
+P31468,42,M,Medicina General,normal,Miércoles,tarde,30,0,4.37,0.054051
+P31469,19,M,Ginecología,urgente,Miércoles,tarde,15,0,12.893,0.057966
+P31470,18,F,Medicina General,normal,Sábado,tarde,15,1,2.652,0.073656
+P31471,83,F,Psicología,urgente,Jueves,mañana,30,0,4.343,0.03712
+P31472,3,F,Psicología,normal,Sábado,mañana,15,0,3.402,0.074224
+P31473,0,F,Psicología,normal,Lunes,mañana,15,0,4.189,0.074834
+P31474,42,F,Medicina General,normal,Miércoles,mañana,15,0,1.134,0.05446
+P31475,68,M,Medicina General,normal,Martes,mañana,15,0,1.824,0.050788
+P31476,79,F,Medicina General,normal,Viernes,tarde,30,0,13.151,0.065669
+P31477,66,M,Psicología,normal,Lunes,mañana,15,0,4.162,0.05416
+P31478,44,F,Medicina General,normal,Sábado,mañana,15,0,3.216,0.053808
+P31479,60,M,Psicología,normal,Lunes,tarde,30,0,0.358,0.05053
+P31480,0,F,Medicina General,normal,Viernes,mañana,15,0,11.823,0.079719
+P31481,51,F,Medicina General,normal,Sábado,tarde,15,0,0.478,0.056046
+P31482,69,F,Medicina General,normal,Martes,mañana,15,0,2.696,0.051572
+P31483,12,F,Medicina General,normal,Miércoles,mañana,30,0,4.362,0.076682
+P31484,25,F,Cardiología,normal,Miércoles,mañana,30,0,4.304,0.074332
+P31485,45,M,Medicina General,normal,Sábado,tarde,15,0,3.841,0.0543
+P31486,1,F,Medicina General,normal,Miércoles,mañana,30,0,10.288,0.081403
+P31487,12,M,Medicina General,normal,Jueves,mañana,15,0,6.131,0.072118
+P31488,33,M,Cardiología,normal,Lunes,mañana,30,0,1.064,0.051324
+P31489,55,F,Medicina General,normal,Martes,mañana,30,0,4.2,0.052738
+P31490,63,F,Medicina General,normal,Miércoles,tarde,30,1,3.364,0.05542
+P31491,56,F,Medicina General,normal,Viernes,tarde,30,0,4.232,0.054368
+P31492,57,M,Medicina General,normal,Martes,mañana,15,0,3.728,0.054103
+P31493,53,M,Psicología,normal,Jueves,mañana,15,0,3.246,0.052847
+P31494,76,F,Medicina General,normal,Sábado,tarde,15,0,4.841,0.055273
+P31495,71,F,Medicina General,normal,Viernes,tarde,15,0,10.689,0.059383
+P31496,57,M,Ginecología,normal,Lunes,tarde,30,0,2.253,0.052487
+P31497,70,F,Medicina General,normal,Martes,mañana,30,0,11.36,0.064775
+P31498,58,F,Psicología,normal,Viernes,mañana,15,0,4.388,0.055455
+P31499,72,M,Medicina General,normal,Lunes,tarde,15,0,3.127,0.05359
+P31500,35,F,Pediatría,normal,Martes,mañana,15,0,3.053,0.053326
+P31501,63,M,Medicina General,normal,Lunes,tarde,30,0,1.431,0.049992
+P31502,31,F,Psicología,normal,Lunes,mañana,15,0,6.478,0.057586
+P31503,36,M,Ginecología,normal,Martes,mañana,45,0,6.482,0.05661
+P31504,37,F,Medicina General,normal,Martes,mañana,30,0,3.141,0.052479
+P31505,64,F,Medicina General,normal,Jueves,mañana,15,0,11.247,0.057262
+P31506,74,M,Psicología,urgente,Martes,mañana,15,0,0.67,0.029502
+P31507,33,M,Odontología,urgente,Miércoles,mañana,15,0,9.963,0.039351
+P31508,5,F,Medicina General,normal,Jueves,mañana,15,0,6.223,0.074475
+P31509,57,F,Medicina General,normal,Lunes,tarde,30,0,0.879,0.053899
+P31510,79,F,Medicina General,normal,Sábado,tarde,15,0,4.344,0.05514
+P31511,47,M,Psicología,normal,Sábado,mañana,15,0,3.116,0.053066
+P31512,78,F,Psicología,normal,Jueves,mañana,15,0,0.837,0.054211
+P31513,3,F,Psicología,normal,Lunes,tarde,15,0,5.821,0.076382
+P31514,84,M,Pediatría,normal,Viernes,mañana,15,0,0.746,0.049277
+P31515,55,F,Psicología,normal,Lunes,mañana,15,0,0.016,0.049936
+P31516,37,M,Ginecología,normal,Miércoles,tarde,15,0,2.353,0.052405
+P31517,16,M,Medicina General,normal,Sábado,tarde,15,0,4.777,0.056454
+P31518,24,F,Cardiología,normal,Miércoles,tarde,30,0,4.654,0.054527
+P31519,19,F,Medicina General,normal,Lunes,tarde,15,0,19.772,0.073386
+P31520,6,F,Psicología,normal,Miércoles,mañana,15,0,8.861,0.080953
+P31521,63,M,Psicología,normal,Lunes,mañana,15,0,1.325,0.051231
+P31522,11,M,Medicina General,normal,Martes,tarde,30,1,4.278,0.081607
+P31523,75,F,Medicina General,normal,Viernes,mañana,30,0,13.305,0.063902
+P31524,38,F,Medicina General,normal,Lunes,tarde,15,0,6.296,0.055753
+P31525,51,F,Psicología,normal,Lunes,mañana,15,0,1.726,0.052226
+P31526,23,M,Odontología,normal,Jueves,mañana,30,0,5.325,0.054481
+P31527,83,F,Medicina General,normal,Lunes,mañana,30,0,3.637,0.05171
+P31528,48,M,Medicina General,normal,Viernes,tarde,15,0,2.29,0.051366
+P31529,42,F,Odontología,normal,Miércoles,mañana,15,0,1.211,0.053479
+P31530,86,F,Cardiología,normal,Lunes,mañana,30,0,5.026,0.060138
+P31531,53,M,Medicina General,normal,Viernes,tarde,30,0,5.074,0.056167
+P31532,84,M,Psicología,urgente,Jueves,mañana,30,0,4.254,0.034942
+P31533,13,M,Odontología,urgente,Martes,tarde,30,0,4.537,0.053762
+P31534,40,F,Cardiología,normal,Viernes,mañana,15,0,11.536,0.063276
+P31535,79,F,Medicina General,normal,Jueves,mañana,30,0,1.287,0.051324
+P31536,16,F,Cardiología,normal,Jueves,mañana,15,0,0.546,0.054729
+P31537,44,F,Medicina General,normal,Lunes,tarde,30,0,1.326,0.052619
+P31538,5,F,Cardiología,normal,Lunes,mañana,15,0,10.51,0.075375
+P31539,25,M,Medicina General,normal,Jueves,mañana,30,0,3.314,0.075367
+P31540,78,F,Psicología,normal,Viernes,mañana,30,0,5.539,0.055449
+P31541,63,F,Ginecología,normal,Sábado,tarde,45,0,1.646,0.054229
+P31542,22,M,Psicología,urgente,Lunes,tarde,30,0,0.456,0.049792
+P31543,9,M,Psicología,normal,Jueves,mañana,15,0,2.814,0.07198
+P31544,5,M,Medicina General,normal,Viernes,tarde,30,0,3.304,0.073741
+P31545,1,M,Medicina General,normal,Sábado,tarde,30,0,2.792,0.072843
+P31546,58,F,Psicología,normal,Miércoles,mañana,15,0,3.593,0.054009
+P31547,38,F,Odontología,urgente,Lunes,tarde,30,0,2.59,0.051476
+P31548,62,M,Pediatría,normal,Lunes,mañana,15,0,4.271,0.054831
+P31549,28,M,Psicología,normal,Jueves,mañana,30,0,1.603,0.051269
+P31550,15,F,Medicina General,normal,Viernes,tarde,15,0,3.16,0.07474
+P31551,52,F,Medicina General,normal,Miércoles,mañana,15,0,1.252,0.049768
+P31552,42,F,Medicina General,normal,Miércoles,mañana,15,0,2.826,0.052667
+P31553,7,M,Pediatría,urgente,Viernes,tarde,30,0,1.9,0.05143
+P31554,40,M,Medicina General,normal,Viernes,tarde,30,0,3.059,0.052949
+P31555,54,M,Psicología,normal,Miércoles,mañana,30,0,1.132,0.05069
+P31556,75,F,Psicología,normal,Lunes,mañana,30,0,2.281,0.052085
+P31557,39,F,Medicina General,normal,Miércoles,tarde,15,0,3.113,0.053686
+P31558,64,F,Psicología,normal,Miércoles,mañana,30,0,7.445,0.057282
+P31559,48,M,Psicología,urgente,Martes,mañana,15,0,10.918,0.04039
+P31560,55,M,Medicina General,normal,Miércoles,tarde,15,0,4.446,0.054718
+P31561,64,F,Medicina General,normal,Miércoles,mañana,30,0,0.645,0.05222
+P31562,72,F,Cardiología,normal,Martes,mañana,30,0,9.18,0.05948
+P31563,40,F,Psicología,normal,Miércoles,tarde,30,0,5.19,0.055344
+P31564,34,F,Medicina General,normal,Jueves,mañana,30,0,9.514,0.058612
+P31565,26,M,Cardiología,normal,Sábado,tarde,30,0,1.288,0.053097
+P31566,63,F,Medicina General,normal,Sábado,tarde,30,0,1.308,0.052392
+P31567,30,M,Psicología,normal,Martes,mañana,15,0,3.292,0.057441
+P31568,39,M,Odontología,normal,Jueves,mañana,15,0,1.189,0.051567
+P31569,61,M,Psicología,normal,Viernes,tarde,15,0,1.968,0.051266
+P31570,20,F,Medicina General,normal,Martes,mañana,30,0,1.521,0.052071
+P31571,25,F,Medicina General,normal,Miércoles,mañana,15,0,1.368,0.049171
+P31572,83,F,Medicina General,normal,Martes,mañana,30,0,3.501,0.053769
+P31573,24,F,Medicina General,normal,Viernes,tarde,15,0,4.059,0.053714
+P31574,51,M,Odontología,normal,Lunes,tarde,15,0,4.201,0.053442
+P31575,83,M,Psicología,normal,Sábado,mañana,15,0,9.219,0.058345
+P31576,10,M,Medicina General,normal,Martes,tarde,30,0,1.412,0.070828
+P31577,61,M,Odontología,normal,Martes,mañana,30,0,2.217,0.051929
+P31578,57,F,Medicina General,normal,Lunes,mañana,15,0,12.356,0.062044
+P31579,13,F,Medicina General,normal,Jueves,mañana,15,0,5.475,0.05387
+P31580,72,F,Pediatría,normal,Viernes,mañana,15,0,21.016,0.053489
+P31581,26,M,Pediatría,normal,Viernes,mañana,15,0,5.41,0.05413
+P31582,35,F,Medicina General,normal,Sábado,tarde,15,0,3.061,0.053349
+P31583,6,M,Medicina General,normal,Viernes,mañana,15,0,9.67,0.076987
+P31584,15,M,Medicina General,normal,Miércoles,tarde,30,0,0.121,0.069597
+P31585,11,M,Odontología,normal,Jueves,mañana,30,0,0.542,0.070797
+P31586,11,M,Psicología,normal,Sábado,tarde,15,0,18.586,0.062875
+P31587,59,M,Medicina General,normal,Sábado,mañana,30,0,12.198,0.062138
+P31588,36,F,Medicina General,normal,Lunes,tarde,30,0,11.631,0.061628
+P31589,47,F,Ginecología,normal,Lunes,mañana,15,0,9.028,0.055376
+P31590,15,M,Medicina General,normal,Miércoles,tarde,15,0,0.441,0.069998
+P31591,87,M,Ginecología,normal,Miércoles,tarde,30,0,8.008,0.060996
+P31592,67,M,Psicología,normal,Lunes,mañana,15,0,9.967,0.059895
+P31593,20,F,Medicina General,normal,Viernes,tarde,30,0,3.659,0.054511
+P31594,10,M,Medicina General,normal,Lunes,tarde,30,0,2.791,0.071962
+P31595,13,M,Medicina General,normal,Sábado,tarde,15,0,4.965,0.071878
+P31596,61,M,Pediatría,normal,Lunes,tarde,30,0,1.014,0.050831
+P31597,82,M,Medicina General,normal,Martes,mañana,15,0,18.601,0.071211
+P31598,69,F,Medicina General,normal,Miércoles,tarde,30,0,1.81,0.051337
+P31599,45,M,Medicina General,normal,Viernes,tarde,30,0,9.711,0.05775
+P31600,52,M,Medicina General,urgente,Sábado,tarde,30,0,1.3,0.030978
+P31601,27,M,Medicina General,normal,Sábado,tarde,15,0,10.624,0.060404
+P31602,55,F,Medicina General,normal,Miércoles,mañana,30,0,2.984,0.05344
+P31603,28,F,Psicología,normal,Lunes,tarde,15,0,9.931,0.058901
+P31604,34,M,Psicología,urgente,Jueves,mañana,15,0,7.215,0.037325
+P31605,56,M,Psicología,normal,Martes,tarde,15,0,8.065,0.057439
+P31606,49,F,Medicina General,normal,Viernes,tarde,15,0,1.569,0.052151
+P31607,50,M,Psicología,normal,Lunes,tarde,30,0,2.082,0.051658
+P31608,58,F,Medicina General,normal,Martes,tarde,30,1,1.983,0.056285
+P31609,53,F,Medicina General,normal,Viernes,tarde,15,0,1.444,0.051503
+P31610,60,F,Psicología,normal,Lunes,mañana,15,0,6.771,0.056968
+P31611,53,F,Medicina General,normal,Miércoles,mañana,15,0,1.223,0.051886
+P31612,14,M,Ginecología,urgente,Lunes,tarde,30,0,3.437,0.052519
+P31613,9,F,Medicina General,normal,Lunes,tarde,30,0,3.891,0.073059
+P31614,9,M,Medicina General,normal,Sábado,tarde,30,0,0.652,0.0725
+P31615,69,M,Psicología,normal,Lunes,mañana,15,0,6.072,0.054649
+P31616,34,M,Ginecología,normal,Miércoles,mañana,30,0,6.451,0.057322
+P31617,9,F,Pediatría,normal,Miércoles,mañana,15,0,0.389,0.068614
+P31618,10,M,Odontología,normal,Lunes,tarde,30,0,1.679,0.051802
+P31619,73,M,Medicina General,normal,Viernes,mañana,15,0,7.328,0.059501
+P31620,17,M,Medicina General,normal,Lunes,tarde,15,0,8.415,0.076772
+P31621,44,M,Medicina General,normal,Lunes,tarde,15,0,3.451,0.054197
+P31622,71,F,Psicología,urgente,Lunes,mañana,15,0,0.0,0.029088
+P31623,21,F,Pediatría,normal,Jueves,mañana,15,0,5.461,0.056386
+P31624,80,O,Psicología,normal,Miércoles,mañana,30,0,6.242,0.055351
+P31625,9,M,Medicina General,normal,Miércoles,mañana,15,0,5.725,0.052928
+P31626,50,F,Psicología,normal,Sábado,mañana,15,0,20.852,0.070812
+P31627,25,O,Psicología,normal,Miércoles,noche,30,0,16.863,0.065745
+P31628,32,F,Medicina General,normal,Miércoles,mañana,30,0,6.209,0.054781
+P31629,53,F,Psicología,normal,Sábado,mañana,30,0,10.275,0.059309
+P31630,23,F,Psicología,normal,Miércoles,tarde,15,0,3.914,0.05503
+P31631,51,F,Psicología,normal,Viernes,mañana,15,0,18.355,0.072167
+P31632,52,F,Ginecología,normal,Sábado,mañana,30,0,4.147,0.05741
+P31633,30,F,Medicina General,normal,Jueves,mañana,15,0,9.09,0.05967
+P31634,66,F,Pediatría,normal,Miércoles,mañana,15,0,0.423,0.049286
+P31635,82,M,Medicina General,normal,Sábado,mañana,15,0,2.906,0.053263
+P31636,57,F,Cardiología,normal,Jueves,mañana,15,0,4.009,0.051636
+P31637,75,M,Odontología,normal,Jueves,mañana,30,0,5.153,0.060288
+P31638,60,F,Cardiología,normal,Lunes,mañana,30,0,5.079,0.054556
+P31639,73,M,Medicina General,normal,Viernes,tarde,15,0,3.903,0.054441
+P31640,24,M,Medicina General,normal,Viernes,tarde,15,0,3.933,0.053546
+P31641,58,M,Medicina General,normal,Lunes,tarde,30,0,0.441,0.04906
+P31642,78,F,Medicina General,normal,Viernes,tarde,30,0,2.021,0.052573
+P31643,47,F,Medicina General,normal,Miércoles,tarde,30,0,1.403,0.051925
+P31644,68,F,Pediatría,normal,Viernes,tarde,15,0,1.574,0.051275
+P31645,54,F,Psicología,normal,Miércoles,mañana,15,0,1.634,0.051075
+P31646,41,M,Pediatría,normal,Martes,mañana,15,0,5.626,0.056341
+P31647,59,M,Medicina General,normal,Miércoles,noche,15,0,3.084,0.053469
+P31648,7,F,Medicina General,normal,Miércoles,tarde,15,0,5.1,0.075539
+P31649,30,F,Medicina General,normal,Jueves,tarde,30,0,1.941,0.051283
+P31650,48,F,Medicina General,normal,Martes,mañana,30,0,2.718,0.052674
+P31651,84,M,Ginecología,urgente,Miércoles,tarde,15,0,11.693,0.037808
+P31652,12,M,Medicina General,normal,Martes,tarde,15,0,8.966,0.060849
+P31653,28,F,Cardiología,normal,Miércoles,mañana,30,1,6.833,0.055202
+P31654,66,F,Medicina General,normal,Martes,mañana,30,0,11.952,0.062934
+P31655,21,M,Medicina General,normal,Jueves,mañana,15,0,1.571,0.052221
+P31656,52,M,Psicología,normal,Viernes,tarde,15,0,2.262,0.052919
+P31657,88,M,Medicina General,urgente,Jueves,mañana,15,0,3.558,0.033952
+P31658,33,M,Psicología,normal,Lunes,tarde,15,0,12.646,0.061767
+P31659,56,M,Psicología,normal,Sábado,mañana,15,0,3.339,0.053436
+P31660,52,F,Medicina General,normal,Sábado,mañana,15,0,5.968,0.058598
+P31661,30,F,Psicología,normal,Lunes,mañana,30,0,1.241,0.051529
+P31662,70,F,Medicina General,urgente,Martes,tarde,30,0,5.73,0.052967
+P31663,13,F,Medicina General,normal,Jueves,mañana,30,0,11.129,0.077232
+P31664,76,M,Medicina General,normal,Miércoles,mañana,15,0,0.819,0.050035
+P31665,9,M,Pediatría,normal,Miércoles,mañana,30,0,10.124,0.07896
+P31666,22,M,Medicina General,normal,Viernes,mañana,15,0,11.923,0.06234
+P31667,45,F,Ginecología,normal,Martes,mañana,30,0,1.172,0.051284
+P31668,81,F,Odontología,normal,Sábado,mañana,30,0,2.741,0.053299
+P31669,44,M,Medicina General,normal,Viernes,tarde,15,0,1.982,0.052948
+P31670,35,M,Odontología,urgente,Lunes,mañana,15,0,3.035,0.035337
+P31671,2,M,Psicología,normal,Viernes,mañana,15,0,4.353,0.0778
+P31672,75,F,Cardiología,normal,Sábado,tarde,15,1,5.869,0.057885
+P31673,44,M,Psicología,urgente,Jueves,mañana,30,2,10.643,0.041114
+P31674,82,F,Medicina General,normal,Viernes,mañana,15,0,9.397,0.057823
+P31675,69,F,Medicina General,normal,Lunes,tarde,15,0,0.66,0.051657
+P31676,36,F,Medicina General,normal,Jueves,mañana,15,0,4.514,0.055193
+P31677,15,M,Pediatría,normal,Miércoles,mañana,15,0,0.251,0.049739
+P31678,74,F,Medicina General,normal,Miércoles,tarde,15,0,2.354,0.052241
+P31679,72,M,Medicina General,normal,Miércoles,mañana,15,0,2.369,0.052866
+P31680,61,F,Medicina General,normal,Miércoles,tarde,15,0,3.994,0.05323
+P31681,16,F,Medicina General,normal,Viernes,tarde,15,0,4.237,0.053901
+P31682,56,M,Ginecología,normal,Lunes,mañana,15,0,10.912,0.062441
+P31683,50,F,Medicina General,normal,Viernes,tarde,15,0,3.149,0.055148
+P31684,51,F,Medicina General,normal,Lunes,tarde,30,1,0.634,0.055918
+P31685,32,F,Medicina General,normal,Martes,mañana,15,0,4.921,0.054535
+P31686,55,M,Ginecología,urgente,Lunes,tarde,30,0,4.061,0.034323
+P31687,42,F,Medicina General,normal,Martes,mañana,30,0,0.614,0.050384
+P31688,11,M,Medicina General,normal,Lunes,mañana,15,0,6.687,0.083538
+P31689,10,F,Medicina General,normal,Miércoles,tarde,15,0,6.045,0.053805
+P31690,43,M,Medicina General,normal,Jueves,mañana,15,0,6.164,0.055286
+P31691,64,F,Medicina General,normal,Sábado,mañana,30,0,0.816,0.050919
+P31692,37,M,Odontología,normal,Jueves,tarde,45,1,4.722,0.061604
+P31693,65,F,Psicología,normal,Viernes,mañana,15,0,20.189,0.055774
+P31694,61,F,Medicina General,normal,Lunes,mañana,30,1,4.04,0.053811
+P31695,79,F,Psicología,normal,Jueves,mañana,30,1,3.406,0.059311
+P31696,0,M,Pediatría,normal,Viernes,mañana,15,0,7.555,0.076407
+P31697,84,F,Psicología,normal,Martes,mañana,15,0,4.493,0.053912
+P31698,2,M,Medicina General,normal,Martes,mañana,15,0,4.469,0.072844
+P31699,24,F,Ginecología,normal,Lunes,tarde,30,0,4.037,0.053796
+P31700,44,F,Odontología,normal,Jueves,mañana,15,0,1.99,0.051877
+P31701,34,M,Odontología,normal,Lunes,mañana,15,0,7.914,0.05936
+P31702,13,F,Medicina General,normal,Viernes,tarde,15,0,2.871,0.073711
+P31703,54,F,Medicina General,normal,Viernes,tarde,15,0,2.501,0.051944
+P31704,11,F,Psicología,normal,Sábado,tarde,15,0,3.849,0.072881
+P31705,3,M,Medicina General,normal,Viernes,mañana,15,0,21.825,0.088167
+P31706,28,F,Ginecología,normal,Miércoles,mañana,30,1,1.979,0.056567
+P31707,10,M,Medicina General,normal,Jueves,mañana,30,0,1.166,0.072044
+P31708,35,M,Medicina General,normal,Jueves,mañana,15,0,5.818,0.055941
+P31709,48,F,Medicina General,normal,Martes,mañana,15,0,1.05,0.055622
+P31710,32,M,Medicina General,urgente,Sábado,tarde,30,0,1.12,0.030664
+P31711,56,F,Psicología,normal,Miércoles,mañana,15,0,9.523,0.062307
+P31712,59,F,Medicina General,normal,Sábado,tarde,15,0,3.074,0.053389
+P31713,13,M,Medicina General,normal,Miércoles,mañana,30,0,6.328,0.078514
+P31714,39,M,Medicina General,normal,Viernes,tarde,15,0,4.492,0.053191
+P31715,51,M,Medicina General,normal,Martes,mañana,30,0,2.127,0.056511
+P31716,10,F,Medicina General,normal,Jueves,mañana,15,0,1.624,0.072222
+P31717,52,F,Psicología,normal,Lunes,mañana,15,0,3.652,0.053961
+P31718,65,F,Odontología,normal,Jueves,mañana,45,0,6.042,0.035707
+P31719,39,M,Medicina General,normal,Viernes,tarde,30,0,5.222,0.052778
+P31720,12,M,Medicina General,normal,Lunes,tarde,30,0,3.383,0.072767
+P31721,9,M,Medicina General,normal,Miércoles,tarde,15,0,10.467,0.078096
+P31722,37,F,Medicina General,normal,Viernes,tarde,30,0,3.877,0.05365
+P31723,26,F,Psicología,normal,Lunes,mañana,15,0,6.411,0.058865
+P31724,29,M,Medicina General,normal,Miércoles,mañana,15,0,5.397,0.055718
+P31725,56,F,Pediatría,normal,Viernes,tarde,15,0,3.426,0.05058
+P31726,45,F,Medicina General,normal,Viernes,tarde,30,0,12.1,0.062274
+P31727,39,F,Medicina General,normal,Miércoles,mañana,15,0,3.262,0.059363
+P31728,52,M,Medicina General,urgente,Martes,mañana,15,0,4.997,0.035104
+P31729,60,M,Medicina General,normal,Jueves,mañana,30,0,7.975,0.056584
+P31730,45,F,Odontología,normal,Lunes,tarde,30,0,1.843,0.052229
+P31731,88,M,Psicología,urgente,Lunes,mañana,15,0,2.845,0.030506
+P31732,29,F,Cardiología,normal,Sábado,tarde,30,0,7.501,0.052082
+P31733,60,F,Odontología,normal,Lunes,mañana,30,0,4.903,0.054413
+P31734,60,M,Cardiología,normal,Viernes,mañana,15,0,5.986,0.056375
+P31735,51,F,Psicología,normal,Lunes,mañana,15,1,0.432,0.061985
+P31736,73,F,Cardiología,normal,Lunes,mañana,30,0,2.476,0.052682
+P31737,48,F,Medicina General,normal,Martes,mañana,15,1,3.921,0.057858
+P31738,61,F,Medicina General,normal,Lunes,tarde,15,0,4.417,0.054573
+P31739,59,F,Medicina General,normal,Viernes,mañana,30,0,1.749,0.053089
+P31740,18,F,Medicina General,normal,Viernes,tarde,30,0,4.325,0.05456
+P31741,25,M,Odontología,normal,Viernes,tarde,30,0,5.062,0.052465
+P31742,24,F,Medicina General,normal,Miércoles,mañana,15,0,3.751,0.05223
+P31743,37,M,Medicina General,normal,Sábado,tarde,15,0,16.629,0.057041
+P31744,47,M,Psicología,normal,Martes,mañana,15,0,2.24,0.052717
+P31745,35,F,Pediatría,normal,Lunes,tarde,30,0,0.888,0.051011
+P31746,39,M,Medicina General,normal,Lunes,tarde,30,0,3.581,0.054077
+P31747,7,F,Psicología,normal,Lunes,mañana,30,0,2.524,0.072621
+P31748,51,M,Psicología,normal,Viernes,tarde,15,0,4.396,0.05498
+P31749,37,F,Medicina General,normal,Martes,mañana,30,0,3.762,0.056783
+P31750,26,F,Medicina General,normal,Viernes,tarde,30,0,16.21,0.091191
+P31751,3,M,Medicina General,normal,Sábado,tarde,15,0,4.143,0.07611
+P31752,57,M,Medicina General,normal,Miércoles,mañana,15,0,5.518,0.054858
+P31753,20,M,Medicina General,normal,Viernes,mañana,30,0,16.756,0.071031
+P31754,64,M,Medicina General,normal,Martes,mañana,15,0,2.765,0.052974
+P31755,67,M,Psicología,normal,Miércoles,mañana,30,0,0.514,0.050813
+P31756,0,F,Medicina General,normal,Lunes,tarde,30,0,4.192,0.074295
+P31757,38,M,Odontología,urgente,Lunes,mañana,30,0,2.22,0.03217
+P31758,12,M,Pediatría,normal,Viernes,mañana,15,0,6.382,0.07724
+P31759,17,F,Medicina General,normal,Jueves,mañana,30,0,4.104,0.076357
+P31760,13,F,Medicina General,normal,Lunes,mañana,30,0,12.825,0.061461
+P31761,0,M,Ginecología,normal,Sábado,mañana,15,0,3.558,0.074379
+P31762,58,F,Medicina General,normal,Miércoles,tarde,30,0,1.599,0.051715
+P31763,66,F,Psicología,normal,Lunes,mañana,30,0,2.975,0.051947
+P31764,61,M,Odontología,normal,Jueves,mañana,45,0,5.35,0.054337
+P31765,55,M,Medicina General,normal,Sábado,tarde,30,0,5.977,0.054909
+P31766,71,F,Psicología,normal,Lunes,mañana,15,0,0.453,0.050563
+P31767,20,F,Psicología,normal,Sábado,tarde,30,0,9.032,0.059478
+P31768,66,F,Ginecología,normal,Lunes,mañana,30,0,3.506,0.052829
+P31769,53,M,Cardiología,normal,Lunes,mañana,30,0,0.477,0.049926
+P31770,64,M,Medicina General,normal,Miércoles,noche,15,0,2.312,0.052886
+P31771,8,M,Medicina General,normal,Miércoles,mañana,30,0,5.156,0.075076
+P31772,9,F,Pediatría,normal,Jueves,tarde,15,0,2.156,0.073073
+P31773,7,M,Pediatría,normal,Viernes,mañana,15,0,5.887,0.075303
+P31774,63,M,Medicina General,urgente,Lunes,mañana,15,0,3.707,0.031422
+P31775,42,M,Medicina General,normal,Viernes,tarde,15,0,5.074,0.055282
+P31776,57,F,Psicología,normal,Martes,mañana,15,0,4.85,0.054011
+P31777,1,M,Ginecología,normal,Sábado,mañana,15,0,1.955,0.071784
+P31778,26,M,Ginecología,normal,Miércoles,tarde,15,0,12.957,0.057577
+P31779,9,M,Psicología,urgente,Viernes,tarde,15,0,2.219,0.052543
+P31780,84,F,Psicología,normal,Lunes,mañana,30,0,3.73,0.052339
+P31781,0,M,Medicina General,normal,Lunes,mañana,15,0,8.174,0.075193
+P31782,35,M,Pediatría,normal,Viernes,tarde,15,0,5.202,0.055563
+P31783,3,M,Medicina General,normal,Sábado,tarde,15,0,6.193,0.073572
+P31784,15,M,Medicina General,normal,Viernes,mañana,15,0,21.747,0.07509
+P31785,14,F,Medicina General,normal,Jueves,tarde,30,0,4.848,0.073469
+P31786,11,M,Medicina General,normal,Sábado,tarde,15,0,0.54,0.071637
+P31787,54,F,Odontología,normal,Sábado,mañana,15,0,13.214,0.064475
+P31788,9,F,Pediatría,normal,Jueves,tarde,30,0,1.733,0.051365
+P31789,38,F,Medicina General,normal,Lunes,mañana,15,0,5.242,0.054875
+P31790,16,F,Medicina General,normal,Viernes,mañana,15,0,4.509,0.076258
+P31791,13,M,Medicina General,normal,Miércoles,mañana,15,0,0.095,0.069464
+P31792,32,F,Medicina General,normal,Viernes,mañana,30,0,17.899,0.071829
+P31793,4,M,Medicina General,urgente,Viernes,tarde,15,0,5.2,0.076987
+P31794,10,F,Cardiología,normal,Jueves,mañana,30,0,5.673,0.057184
+P31795,75,F,Odontología,normal,Lunes,mañana,30,1,4.319,0.054913
+P31796,13,M,Medicina General,normal,Viernes,tarde,15,0,3.779,0.053346
+P31797,20,F,Ginecología,normal,Sábado,mañana,15,0,2.543,0.071918
+P31798,46,F,Medicina General,normal,Sábado,tarde,15,0,4.044,0.054129
+P31799,58,M,Cardiología,normal,Miércoles,mañana,30,0,1.19,0.051104
+P31800,59,M,Pediatría,normal,Jueves,tarde,30,0,3.352,0.052445
+P31801,30,F,Medicina General,normal,Jueves,mañana,15,0,7.081,0.060025
+P31802,54,M,Psicología,urgente,Jueves,mañana,15,0,8.442,0.035689
+P31803,60,F,Psicología,normal,Lunes,mañana,15,0,1.812,0.051002
+P31804,36,F,Medicina General,normal,Lunes,tarde,15,0,2.906,0.052644
+P31805,31,M,Medicina General,normal,Miércoles,tarde,15,0,3.691,0.053013
+P31806,61,F,Ginecología,normal,Miércoles,mañana,15,0,0.729,0.050296
+P31807,29,M,Odontología,normal,Lunes,mañana,45,0,2.351,0.052927
+P31808,42,F,Psicología,normal,Martes,mañana,15,0,2.672,0.052936
+P31809,76,M,Medicina General,normal,Lunes,tarde,30,1,1.86,0.056987
+P31810,22,F,Psicología,normal,Miércoles,tarde,15,0,10.466,0.062021
+P31811,5,F,Psicología,normal,Miércoles,mañana,15,0,5.04,0.073026
+P31812,79,F,Odontología,normal,Martes,mañana,15,0,5.792,0.053778
+P31813,72,F,Medicina General,normal,Martes,mañana,15,0,4.114,0.054627
+P31814,48,O,Cardiología,normal,Lunes,tarde,30,0,3.969,0.053035
+P31815,59,M,Ginecología,normal,Lunes,mañana,30,0,5.032,0.055695
+P31816,53,F,Medicina General,normal,Martes,mañana,15,0,4.013,0.052968
+P31817,41,M,Ginecología,normal,Martes,mañana,15,0,6.103,0.056537
+P31818,56,F,Cardiología,normal,Sábado,mañana,15,0,10.347,0.055573
+P31819,51,F,Psicología,normal,Jueves,mañana,15,0,11.506,0.062052
+P31820,9,M,Medicina General,normal,Viernes,mañana,15,0,2.863,0.073069
+P31821,21,M,Medicina General,normal,Martes,mañana,30,0,2.204,0.072821
+P31822,23,M,Psicología,normal,Sábado,tarde,30,0,10.228,0.058289
+P31823,9,F,Medicina General,normal,Viernes,mañana,30,0,3.057,0.075013
+P31824,29,F,Cardiología,normal,Miércoles,tarde,30,0,7.019,0.055791
+P31825,60,M,Psicología,normal,Martes,mañana,15,0,2.759,0.052712
+P31826,81,M,Medicina General,urgente,Lunes,tarde,30,0,1.013,0.051947
+P31827,48,M,Odontología,normal,Viernes,mañana,15,0,7.226,0.057982
+P31828,31,M,Odontología,urgente,Lunes,tarde,15,0,4.921,0.054511
+P31829,67,F,Medicina General,normal,Miércoles,tarde,30,0,4.524,0.054427
+P31830,17,M,Medicina General,normal,Martes,tarde,15,0,2.981,0.074359
+P31831,9,F,Medicina General,normal,Viernes,mañana,30,0,1.1,0.072157
+P31832,70,F,Medicina General,normal,Miércoles,mañana,30,0,0.663,0.050453
+P31833,64,F,Ginecología,normal,Miércoles,mañana,30,0,3.231,0.053473
+P31834,12,F,Psicología,normal,Sábado,tarde,30,0,4.514,0.071456
+P31835,8,M,Medicina General,normal,Jueves,tarde,15,0,13.151,0.078921
+P31836,36,F,Medicina General,normal,Miércoles,mañana,15,0,5.763,0.056237
+P31837,60,F,Medicina General,normal,Viernes,tarde,15,0,4.941,0.051857
+P31838,35,M,Medicina General,normal,Martes,tarde,30,0,1.743,0.052883
+P31839,71,M,Ginecología,urgente,Lunes,mañana,30,0,1.13,0.031861
+P31840,12,M,Medicina General,normal,Martes,tarde,15,0,8.741,0.078232
+P31841,14,M,Odontología,normal,Jueves,tarde,15,0,4.506,0.075279
+P31842,10,M,Cardiología,normal,Miércoles,mañana,30,1,3.794,0.064998
+P31843,18,M,Medicina General,normal,Martes,mañana,15,0,1.425,0.073301
+P31844,75,F,Psicología,normal,Sábado,mañana,30,0,7.207,0.057597
+P31845,22,M,Odontología,normal,Martes,mañana,30,0,3.612,0.05283
+P31846,36,F,Medicina General,normal,Jueves,tarde,15,0,2.533,0.052637
+P31847,19,M,Odontología,normal,Lunes,tarde,30,1,3.713,0.058553
+P31848,15,F,Psicología,normal,Miércoles,mañana,15,0,2.684,0.07273
+P31849,55,F,Medicina General,normal,Martes,mañana,30,0,1.78,0.054773
+P31850,23,M,Medicina General,normal,Martes,mañana,15,0,6.394,0.057266
+P31851,61,F,Medicina General,normal,Jueves,mañana,30,0,0.482,0.054305
+P31852,50,F,Cardiología,normal,Lunes,tarde,15,0,7.655,0.05782
+P31853,34,F,Medicina General,normal,Miércoles,mañana,30,0,4.546,0.060295
+P31854,13,F,Odontología,normal,Lunes,tarde,45,0,6.001,0.075964
+P31855,67,F,Medicina General,normal,Viernes,tarde,30,0,6.908,0.057376
+P31856,27,M,Psicología,urgente,Martes,mañana,15,0,3.975,0.034043
+P31857,20,M,Cardiología,normal,Martes,mañana,30,0,0.531,0.050594
+P31858,88,F,Psicología,normal,Lunes,mañana,15,0,2.24,0.032769
+P31859,13,M,Medicina General,normal,Martes,mañana,15,0,6.033,0.05729
+P31860,7,F,Psicología,normal,Lunes,tarde,15,0,3.554,0.073823
+P31861,32,F,Odontología,normal,Jueves,mañana,30,0,0.746,0.052588
+P31862,82,M,Medicina General,normal,Sábado,mañana,30,0,2.133,0.052865
+P31863,73,M,Medicina General,normal,Viernes,tarde,30,0,1.702,0.051858
+P31864,74,M,Odontología,normal,Jueves,mañana,30,1,9.605,0.059639
+P31865,61,M,Psicología,normal,Jueves,mañana,15,0,5.093,0.058408
+P31866,40,M,Odontología,normal,Martes,mañana,15,0,0.896,0.050744
+P31867,88,F,Psicología,normal,Lunes,mañana,30,0,1.101,0.050406
+P31868,46,F,Ginecología,normal,Martes,mañana,30,0,1.353,0.054251
+P31869,53,O,Medicina General,normal,Miércoles,tarde,30,0,1.244,0.051029
+P31870,64,M,Ginecología,normal,Lunes,mañana,30,0,2.249,0.053166
+P31871,50,M,Pediatría,normal,Sábado,mañana,15,0,2.439,0.050086
+P31872,65,F,Pediatría,normal,Miércoles,mañana,30,0,0.545,0.051011
+P31873,57,M,Psicología,normal,Lunes,tarde,30,0,4.919,0.053213
+P31874,54,F,Psicología,normal,Jueves,tarde,30,0,0.784,0.051065
+P31875,61,M,Medicina General,normal,Sábado,tarde,15,0,3.484,0.055427
+P31876,41,F,Psicología,normal,Sábado,mañana,15,0,1.083,0.051246
+P31877,15,F,Psicología,normal,Sábado,tarde,15,0,0.833,0.069688
+P31878,14,M,Ginecología,normal,Lunes,tarde,30,0,4.004,0.053077
+P31879,27,M,Medicina General,normal,Viernes,tarde,15,0,2.226,0.052181
+P31880,50,F,Cardiología,normal,Jueves,tarde,15,0,6.816,0.056204
+P31881,11,M,Odontología,normal,Lunes,mañana,30,0,5.459,0.075886
+P31882,68,M,Medicina General,urgente,Miércoles,tarde,15,0,11.072,0.059759
+P31883,29,M,Medicina General,urgente,Martes,tarde,15,0,10.295,0.060359
+P31884,51,F,Odontología,normal,Lunes,mañana,30,0,3.531,0.053822
+P31885,34,M,Medicina General,normal,Miércoles,tarde,15,0,1.36,0.050882
+P31886,62,M,Pediatría,normal,Viernes,mañana,15,0,17.03,0.068958
+P31887,14,M,Medicina General,normal,Viernes,tarde,15,0,3.643,0.073797
+P31888,37,F,Medicina General,normal,Lunes,tarde,30,0,2.15,0.050991
+P31889,49,F,Psicología,normal,Miércoles,mañana,15,0,3.773,0.053635
+P31890,25,F,Psicología,normal,Jueves,tarde,15,0,16.596,0.065645
+P31891,75,M,Psicología,urgente,Lunes,mañana,30,0,1.84,0.033011
+P31892,66,M,Pediatría,normal,Martes,mañana,15,0,7.119,0.059355
+P31893,51,M,Ginecología,normal,Lunes,mañana,30,0,4.498,0.053201
+P31894,6,M,Medicina General,normal,Martes,tarde,30,0,1.843,0.073366
+P31895,56,M,Psicología,normal,Miércoles,tarde,15,0,1.38,0.051371
+P31896,46,M,Medicina General,normal,Lunes,tarde,15,0,5.249,0.054737
+P31897,57,F,Cardiología,normal,Sábado,mañana,30,0,0.936,0.051322
+P31898,62,F,Psicología,normal,Miércoles,tarde,15,0,1.835,0.052251
+P31899,40,F,Medicina General,normal,Lunes,mañana,15,0,12.373,0.066037
+P31900,67,M,Psicología,normal,Jueves,mañana,15,0,1.691,0.05212
+P31901,42,F,Medicina General,normal,Miércoles,mañana,15,0,1.263,0.050689
+P31902,41,M,Odontología,normal,Jueves,mañana,15,0,3.481,0.05269
+P31903,11,M,Medicina General,normal,Sábado,mañana,15,0,0.623,0.070503
+P31904,28,M,Medicina General,normal,Jueves,tarde,30,0,20.135,0.06348
+P31905,42,F,Medicina General,normal,Viernes,tarde,30,0,2.261,0.052048
+P31906,62,M,Medicina General,urgente,Sábado,tarde,15,0,17.572,0.049704
+P31907,50,F,Cardiología,normal,Sábado,mañana,15,0,2.157,0.053232
+P31908,66,M,Medicina General,normal,Viernes,tarde,15,0,0.544,0.050373
+P31909,55,F,Psicología,normal,Miércoles,mañana,30,1,0.513,0.055681
+P31910,18,F,Cardiología,normal,Lunes,mañana,15,0,9.87,0.060195
+P31911,10,O,Medicina General,normal,Jueves,tarde,30,0,0.638,0.069519
+P31912,29,M,Medicina General,normal,Viernes,tarde,30,0,0.379,0.050049
+P31913,55,M,Cardiología,normal,Lunes,mañana,30,0,4.475,0.051929
+P31914,45,F,Pediatría,normal,Martes,mañana,30,0,7.935,0.055712
+P31915,51,M,Psicología,normal,Jueves,mañana,15,0,1.446,0.030464
+P31916,52,M,Psicología,normal,Sábado,mañana,15,0,3.185,0.053771
+P31917,14,F,Psicología,normal,Miércoles,mañana,15,0,1.287,0.051742
+P31918,11,F,Cardiología,normal,Jueves,mañana,30,0,10.611,0.078811
+P31919,30,M,Psicología,normal,Viernes,tarde,15,0,5.976,0.054217
+P31920,46,F,Odontología,normal,Lunes,mañana,30,0,3.461,0.033836
+P31921,58,F,Medicina General,normal,Lunes,mañana,30,0,1.334,0.050797
+P31922,32,M,Psicología,normal,Miércoles,mañana,15,0,2.233,0.051835
+P31923,42,M,Psicología,normal,Lunes,tarde,15,0,2.324,0.051625
+P31924,37,F,Medicina General,normal,Lunes,tarde,15,0,6.222,0.0554
+P31925,2,F,Medicina General,normal,Jueves,tarde,30,0,1.146,0.070205
+P31926,10,F,Medicina General,normal,Jueves,mañana,15,0,5.479,0.073122
+P31927,61,M,Medicina General,normal,Viernes,mañana,15,1,16.882,0.07017
+P31928,32,F,Ginecología,normal,Jueves,mañana,15,0,16.327,0.067017
+P31929,27,M,Odontología,normal,Lunes,mañana,45,0,2.012,0.05263
+P31930,38,M,Odontología,normal,Jueves,mañana,15,0,3.931,0.053264
+P31931,4,F,Psicología,urgente,Lunes,mañana,15,0,0.899,0.031694
+P31932,22,F,Psicología,normal,Miércoles,mañana,15,0,12.44,0.065699
+P31933,32,F,Medicina General,normal,Jueves,mañana,15,0,10.076,0.059755
+P31934,74,M,Psicología,normal,Lunes,mañana,30,0,1.12,0.050907
+P31935,36,M,Medicina General,normal,Martes,mañana,30,0,6.025,0.056375
+P31936,17,F,Medicina General,normal,Miércoles,mañana,30,0,2.726,0.07404
+P31937,16,M,Ginecología,normal,Sábado,mañana,15,0,5.008,0.053417
+P31938,68,M,Medicina General,normal,Martes,mañana,15,0,3.64,0.053362
+P31939,63,M,Odontología,normal,Jueves,mañana,45,0,5.439,0.05357
+P31940,64,M,Pediatría,normal,Viernes,tarde,30,0,4.257,0.053563
+P31941,56,F,Medicina General,normal,Sábado,tarde,15,1,3.311,0.05821
+P31942,51,F,Odontología,normal,Lunes,mañana,15,0,3.492,0.035794
+P31943,21,F,Ginecología,normal,Miércoles,tarde,15,0,7.754,0.056196
+P31944,59,F,Medicina General,normal,Viernes,tarde,30,0,3.497,0.05367
+P31945,33,F,Medicina General,normal,Viernes,tarde,15,0,1.351,0.051549
+P31946,65,F,Medicina General,normal,Martes,mañana,30,0,4.122,0.059382
+P31947,87,F,Cardiología,normal,Martes,mañana,30,0,3.565,0.052947
+P31948,17,M,Medicina General,normal,Jueves,mañana,30,0,9.518,0.079321
+P31949,39,M,Odontología,normal,Viernes,tarde,30,0,7.006,0.057683
+P31950,15,F,Medicina General,normal,Sábado,tarde,15,0,5.53,0.073974
+P31951,15,M,Odontología,normal,Miércoles,tarde,15,0,4.608,0.053883
+P31952,22,M,Psicología,normal,Miércoles,mañana,15,0,4.512,0.07326
+P31953,17,M,Medicina General,normal,Sábado,mañana,15,0,23.596,0.077155
+P31954,1,M,Medicina General,normal,Miércoles,tarde,30,1,6.596,0.079671
+P31955,23,F,Medicina General,normal,Jueves,tarde,30,0,21.456,0.0617
+P31956,5,M,Medicina General,normal,Sábado,tarde,15,1,2.228,0.075239
+P31957,53,F,Medicina General,normal,Viernes,tarde,30,0,0.198,0.04987
+P31958,59,F,Psicología,normal,Miércoles,mañana,15,0,1.397,0.051338
+P31959,65,M,Medicina General,normal,Viernes,tarde,30,0,4.503,0.053024
+P31960,49,F,Medicina General,normal,Viernes,tarde,30,0,9.296,0.056633
+P31961,17,F,Medicina General,normal,Jueves,mañana,15,0,2.91,0.052831
+P31962,44,M,Medicina General,normal,Viernes,tarde,30,0,1.632,0.051878
+P31963,0,F,Medicina General,normal,Miércoles,mañana,30,0,9.571,0.078101
+P31964,27,M,Medicina General,normal,Viernes,tarde,15,0,1.441,0.051588
+P31965,80,M,Psicología,urgente,Jueves,mañana,15,0,4.767,0.031886
+P31966,64,F,Odontología,normal,Jueves,mañana,30,0,3.331,0.051065
+P31967,53,F,Psicología,normal,Viernes,tarde,15,0,2.017,0.052778
+P31968,50,F,Psicología,normal,Miércoles,tarde,15,0,3.637,0.051856
+P31969,19,M,Odontología,normal,Miércoles,mañana,15,0,9.71,0.076711
+P31970,82,F,Ginecología,normal,Lunes,tarde,30,0,4.098,0.053578
+P31971,51,F,Medicina General,urgente,Lunes,tarde,30,0,0.798,0.030159
+P31972,6,F,Medicina General,normal,Miércoles,mañana,30,0,8.05,0.080433
+P31973,5,F,Medicina General,normal,Jueves,mañana,30,0,5.982,0.076219
+P31974,7,M,Psicología,normal,Miércoles,mañana,15,0,2.059,0.072433
+P31975,15,M,Medicina General,normal,Martes,mañana,15,0,2.205,0.072477
+P31976,4,F,Pediatría,normal,Sábado,tarde,30,0,0.988,0.069279
+P31977,46,F,Odontología,normal,Martes,mañana,15,0,8.692,0.058874
+P31978,21,F,Medicina General,normal,Miércoles,noche,15,0,3.876,0.054304
+P31979,53,M,Psicología,normal,Viernes,tarde,15,0,2.438,0.052757
+P31980,59,F,Medicina General,normal,Miércoles,tarde,15,0,0.987,0.051243
+P31981,17,M,Psicología,normal,Sábado,tarde,15,0,3.426,0.068948
+P31982,39,F,Medicina General,normal,Sábado,tarde,30,1,12.66,0.064183
+P31983,33,F,Cardiología,normal,Lunes,tarde,15,0,7.236,0.057424
+P31984,75,F,Psicología,normal,Martes,mañana,15,0,4.451,0.053894
+P31985,7,M,Medicina General,normal,Lunes,tarde,30,0,4.684,0.0747
+P31986,32,F,Medicina General,normal,Miércoles,mañana,15,0,2.38,0.052769
+P31987,60,M,Odontología,normal,Lunes,mañana,30,0,4.365,0.053554
+P31988,33,F,Medicina General,normal,Miércoles,tarde,30,1,3.731,0.056338
+P31989,42,F,Odontología,normal,Lunes,mañana,30,0,1.626,0.051099
+P31990,39,F,Medicina General,normal,Viernes,tarde,15,0,0.881,0.049471
+P31991,21,M,Ginecología,normal,Viernes,mañana,15,0,9.725,0.071576
+P31992,64,F,Medicina General,normal,Martes,mañana,15,0,8.928,0.054252
+P31993,68,F,Medicina General,normal,Sábado,mañana,30,0,2.592,0.052337
+P31994,7,M,Cardiología,normal,Miércoles,tarde,30,0,6.481,0.056114
+P31995,39,M,Ginecología,normal,Jueves,mañana,15,0,3.793,0.053406
+P31996,55,F,Medicina General,normal,Sábado,mañana,15,0,4.73,0.05422
+P31997,11,F,Medicina General,normal,Lunes,mañana,30,0,14.11,0.081764
+P31998,59,F,Pediatría,normal,Miércoles,mañana,15,0,8.506,0.059448
+P31999,40,F,Odontología,normal,Lunes,mañana,30,0,4.745,0.053079

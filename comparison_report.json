@@ -1,0 +1,141 @@
+{
+  "timestamp": "2025-11-25T19:59:14.434667",
+  "experiment_1": {
+    "experiment": "Experimento 1 - CTGAN Optimizado",
+    "timestamp": "2025-11-25T19:59:09.247410",
+    "ks_test": {
+      "results": {
+        "age": {
+          "ks_stat": 0.073,
+          "p_value": 4.670459719888181e-05
+        },
+        "distance_km": {
+          "ks_stat": 0.0925,
+          "p_value": 7.25098045666481e-08
+        },
+        "no_show_prob": {
+          "ks_stat": 0.1235,
+          "p_value": 1.0532875583619577e-13
+        },
+        "previous_no_shows": {
+          "ks_stat": 0.066,
+          "p_value": 0.00032783294778912275
+        }
+      },
+      "score": 0.0,
+      "passed": 0,
+      "total": 4
+    },
+    "chi2_test": {
+      "results": {
+        "gender": {
+          "chi2": 24.288936020883767,
+          "p_value": 5.3177088724719176e-06
+        },
+        "specialty": {
+          "chi2": 34.80014618614495,
+          "p_value": 1.6493399025557992e-06
+        },
+        "urgency": {
+          "chi2": 19.38385714530429,
+          "p_value": 1.06906924997226e-05
+        },
+        "preferred_day": {
+          "chi2": 17.989895074916056,
+          "p_value": 0.002959095559993934
+        },
+        "preferred_slot": {
+          "chi2": 17.80968751071061,
+          "p_value": 0.00013572988928496144
+        }
+      },
+      "score": 0.0,
+      "passed": 0,
+      "total": 5
+    },
+    "auc_test": {
+      "auc": 0.87155,
+      "quality": "POBRE",
+      "interpretation": "AUC de 0.8716 indica datos pobre"
+    },
+    "overall": {
+      "ks_score": 0.0,
+      "chi2_score": 0.0,
+      "auc_score": 12.844999999999995,
+      "total_score": 5.137999999999998,
+      "quality": "NECESITA MEJORAS \u274c"
+    }
+  },
+  "experiment_2": {
+    "experiment": "Experimento 2 - TVAE",
+    "timestamp": "2025-11-25T19:59:11.890660",
+    "ks_test": {
+      "results": {
+        "age": {
+          "ks_stat": 0.0645,
+          "p_value": 0.0004851523695521603
+        },
+        "distance_km": {
+          "ks_stat": 0.084,
+          "p_value": 1.4674921484530322e-06
+        },
+        "no_show_prob": {
+          "ks_stat": 0.1175,
+          "p_value": 1.92461766904109e-12
+        },
+        "previous_no_shows": {
+          "ks_stat": 0.024,
+          "p_value": 0.6122516588087653
+        }
+      },
+      "score": 25.0,
+      "passed": 1,
+      "total": 4
+    },
+    "chi2_test": {
+      "results": {
+        "gender": {
+          "chi2": 47.861719359320105,
+          "p_value": 4.0453834549044476e-11
+        },
+        "specialty": {
+          "chi2": 123.42455842018124,
+          "p_value": 5.903798757890827e-25
+        },
+        "urgency": {
+          "chi2": 7.418826152957456,
+          "p_value": 0.006454491069710711
+        },
+        "preferred_day": {
+          "chi2": 24.915503818181392,
+          "p_value": 0.00014466654840846247
+        },
+        "preferred_slot": {
+          "chi2": 174.35843494301156,
+          "p_value": 1.3757734227699233e-38
+        }
+      },
+      "score": 0.0,
+      "passed": 0,
+      "total": 5
+    },
+    "auc_test": {
+      "auc": 0.8067902777777779,
+      "quality": "REGULAR",
+      "interpretation": "AUC de 0.8068 indica datos regular"
+    },
+    "overall": {
+      "ks_score": 25.0,
+      "chi2_score": 0.0,
+      "auc_score": 19.32097222222221,
+      "total_score": 15.228388888888883,
+      "quality": "NECESITA MEJORAS \u274c"
+    }
+  },
+  "comparison": {
+    "winner": "Experimento 2 - TVAE",
+    "exp1_score": 5.137999999999998,
+    "exp2_score": 15.228388888888883,
+    "difference": 10.090388888888885
+  }
+}
